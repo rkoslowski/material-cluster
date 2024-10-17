@@ -1,0 +1,1002 @@
+Name;Density (g/cc);E-Modul (GPa);Poissons Ratio;Class
+Diamond, Natural;3.51;950.0;0.2;Carbon
+Diamond, Polycrystalline;3.5;851.0;0.14;Carbon
+Diamond, Synthetic;3.36;862.5;0.200;Carbon
+Ohara S-TIH23 Optical Glass;3.30;92.2;0.260;Ceramic
+Morgan Advanced Ceramics Nilcra Zirconia MS Grade Zirconia;5.74;205;0.310;Ceramic
+Piezo Kinetics PKI 409E Navy Type I Lead Zirconate Titanate Piezoelectric;7.60;76.0;0.310;Ceramic
+Piezo Kinetics PKI 502 Navy Type II Lead Zirconate Titanate Piezoelectric;7.70;71.0;0.310;Ceramic
+Piezo Kinetics PKI 532 Lead Zirconate Titanate Piezoelectric;7.60;63.0;0.310;Ceramic
+Piezo Kinetics PKI 552 Lead Zirconate Titanate Piezoelectric;7.60;60.0;0.310;Ceramic
+Piezo Kinetics PKI 802 Navy Type III Lead Zirconate Titanate Piezoelectric;7.60;72.0;0.310;Ceramic
+Thermal Transfer Composites PRIMEX Cast™ MCX-1605™ Aluminum Silicon Carbide Composite, Reinforced;2.77;106;0.310;Ceramic
+Ohara S-LAH53V Optical Glass;4.41;1140;0.309;Ceramic
+Ohara S-LAH98 Optical Glass;4.94;1290;0.306;Ceramic
+Ohara S-LAM73 Optical Glass;4.45;868;0.306;Ceramic
+Ohara S-LAH92 Optical Glass;4.87;123;0.306;Ceramic
+Ohara S-TIM35 Optical Glass;2.96;87.5;0.238;Ceramic
+Mateck Sapphire (Al2O3);3.98;444.5;0.309;Ceramic
+Ohara S-TIM28 Optical Glass;2.98;85.5;0.242;Ceramic
+Ohara S-TIM27 Optical Glass;2.76;79.3;0.236;Ceramic
+Ohara S-TIM25 Optical Glass;2.91;84.1;0.236;Ceramic
+Ohara S-TIM22 Optical Glass;2.79;79.8;0.238;Ceramic
+Ohara S-TIM 8 Optical Glass;2.63;75.0;0.231;Ceramic
+Ohara S-TIM 5 Optical Glass;2.63;76.3;0.233;Ceramic
+Ohara S-TIM 3 Optical Glass;2.67;77.9;0.229;Ceramic
+Ohara S-TIM 2 Optical Glass;2.69;77.6;0.230;Ceramic
+Ohara S-TIM 1 Optical Glass;2.71;78.6;0.234;Ceramic
+Ohara S-TIL27 Optical Glass;2.58;74.9;0.217;Ceramic
+Ohara S-TIM39 Optical Glass;2.92;81.7;0.246;Ceramic
+Cordierite, 2MgO-2Al2O3-5SiO2;2.30;125;0.260;Ceramic
+Magnéli-Phase 40 vol.-% Ti4O7/60 vol.-% Ti5O9;5.24;221;0.275;Ceramic
+CeramTec 547 Cordierite (2MgO-2Al2O3-5SiO2);2.30;128;0.280;Ceramic
+Schott IOG-2 Phosphate Laser Glass;2.72;54.0;0.270;Ceramic
+Schott N-KZFS11 638424.320, Optical Glass;3.20;79.0;0.251;Ceramic
+Schott P-SF69 723292.293, Optical Glass;2.93;96.0;0.251;Ceramic
+Schott P-SF68 005210.619, Optical Glass;6.19;79.0;0.275;Ceramic
+Schott N-SF57HTultra 847238.353, Optical Glass;3.53;96.0;0.260;Ceramic
+Schott P-SK60 610579.308, Optical Glass;3.08;99.0;0.253;Ceramic
+Schott N-SK2HT 607567.355, Optical Glass;3.55;78.0;0.263;Ceramic
+Schott SFL6 805254.337, Optical Glass;3.37;93.0;0.260;Ceramic
+Schott N-SK15 623580.362, Optical Glass;3.62;84.0;0.265;Ceramic
+Schott N-SK10 623570.364, Optical Glass;3.64;81.0;0.266;Ceramic
+Schott N-SF56 785261.328, Optical Glass;3.28;91.0;0.255;Ceramic
+Ohara S-TIL26 Optical Glass;2.57;73.9;0.222;Ceramic
+724-8 Nextrema Opaque White Glass Ceramic/SCHOTT;2.54;86.0;0.260;Ceramic
+712-8 Nextrema Opaque Grey Glass Ceramic/SCHOTT;2.52;84.0;0.260;Ceramic
+712-6 Nextrema Translucent Blue-Grey Glass Ceramic/SCHOTT;2.51;86.0;0.260;Ceramic
+Mateck Barium Fluoride, BaF2;4.83;65.85;0.307;Ceramic
+Mateck Lithium Fluoride (LiF);2.60;115.2;0.270;Ceramic
+C-Glass Fiber, Generic;2.54;68.9;0.276;Ceramic
+Ferro Aluminum Oxide P99;3.92;331;0.260;Ceramic
+3M Techical Ceramics Ekasic S Silicon Nitride;3.24;300;0.280;Ceramic
+CoorsTek SN102 Sinter-HIP Silicon Nitride;3.23;290;0.270;Ceramic
+CeramTec 965 Toughened Alumina (Al2O3-ZrO2);4.20;344;0.260;Ceramic
+CeramTec ATZ Alumina Toughened Zirconia, Dental Grade;5.48;260;0.280;Ceramic
+CeramTec 192/193 Titania;4.00;228;0.270;Ceramic
+724-5 Nextrema Translucent White Glass Ceramic/SCHOTT;2.50;85.0;0.260;Ceramic
+Ohara S-TIL25 Optical Glass;2.59;75.3;0.220;Ceramic
+Ohara S-TIL 1 Optical Glass;2.54;70.5;0.222;Ceramic
+Schott LG-750 Phosphate Laser Glass;2.83;50.1;0.256;Ceramic
+Ohara PBM8Y i-Line Optical Glass;3.36;58.8;0.222;Ceramic
+Ohara PBM2Y i-Line Optical Glass;3.61;57.1;0.223;Ceramic
+Ohara PBM18Y i-Line Optical Glass;3.37;59.8;0.223;Ceramic
+Ohara PBL6Y i-Line Optical Glass;2.79;60.5;0.205;Ceramic
+Ohara PBL35Y i-Line Optical Glass;3.27;59.6;0.217;Ceramic
+Ohara PBL26Y i-Line Optical Glass;3.10;58.9;0.220;Ceramic
+Ohara PBL25Y i-Line Optical Glass;3.23;58.5;0.219;Ceramic
+Ohara PBL1Y i-Line Optical Glass;2.95;61.3;0.217;Ceramic
+Ohara L-NBH54 Low Tg Optical Glass;3.64;109;0.205;Ceramic
+Ohara L-BSL 7 Low Tg Optical Glass;2.38;79.3;0.214;Ceramic
+Ohara L-BAL43 Low Tg Optical Glass;3.05;90.4;0.250;Ceramic
+Ohara S-BAH28 Optical Glass;3.67;91.1;0.213;Ceramic
+Ohara L-BAL42 Low Tg Optical Glass;3.05;89.1;0.247;Ceramic
+Ohara BAL35Y i-Line Optical Glass;3.23;88.1;0.244;Ceramic
+Ohara BAL15Y i-Line Optical Glass;2.90;78.3;0.236;Ceramic
+Ohara S-NPH 1W Optical Glass;3.29;893;0.250;Ceramic
+Ohara S-NBH58 Optical Glass;3.33;1050;0.244;Ceramic
+Ohara S-NBH53V Optical Glass;3.19;1030;0.237;Ceramic
+Ohara S-NBH52V Optical Glass;3.01;963;0.246;Ceramic
+Ohara L-BAL42P Low Softening Temperature Optical Glass;3.05;891;0.247;Ceramic
+CoorsTek Pure SiC™ LR CVD Silicon Carbide, > 99.9995%;3.21;434;0.210;Ceramic
+CoorsTek Pure SiC™ HR CVD Silicon Carbide, > 99.9995%;3.21;462;0.210;Ceramic
+CoorsTek Zirconia-Toughened Alumina, ZTA;4.05;360;0.230;Ceramic
+Thermal Transfer Composites PRIMEX ULTRA™ MCT-587™ Aluminum Silicon Carbide Composite, Reinforced;3.01;270;0.230;Ceramic
+Ohara BSL7Y i-Line Optical Glass;2.50;81.1;0.207;Ceramic
+Ohara S-TIL 2 Optical Glass;2.52;69.9;0.220;Ceramic
+Ohara S-BAL 2 Optical Glass;2.89;72.7;0.245;Ceramic
+Ohara S-BAL11 Optical Glass;3.02;81.9;0.237;Ceramic
+Ohara S-TIH18 Optical Glass;3.07;89.1;0.248;Ceramic
+Ohara S-TIH13 Optical Glass;3.10;89.9;0.249;Ceramic
+Ohara S-TIH10 Optical Glass;3.06;102;0.243;Ceramic
+Ohara S-TIH 1 Optical Glass;3.06;88.4;0.247;Ceramic
+Ohara S-NSL 3 Optical Glass;2.48;70.0;0.217;Ceramic
+Ohara S-NPH 3 Optical Glass;3.59;102;0.243;Ceramic
+Ohara S-NPH 2 Optical Glass;3.58;99.1;0.249;Ceramic
+Ohara S-NBM51 Optical Glass;2.93;81.7;0.243;Ceramic
+Ohara S-NBH56 Optical Glass;3.49;107;0.249;Ceramic
+Ohara S-NBH53 Optical Glass;3.28;103;0.236;Ceramic
+Ohara S-NBH52 Optical Glass;3.09;97.9;0.236;Ceramic
+Ohara S-BAL 3 Optical Glass;2.98;71.9;0.249;Ceramic
+Ohara S-NBH 8 Optical Glass;3.19;102;0.250;Ceramic
+Ohara S-LAH88 Optical Glass;4.74;114;0.242;Ceramic
+Ohara S-FTM16 Optical Glass;2.64;65.3;0.238;Ceramic
+Ohara S-FSL5Y i-Line Optical Glass;2.46;62.2;0.229;Ceramic
+Ohara S-FSL 5 Optical Glass;2.46;62.3;0.227;Ceramic
+Ohara S-BSL 7 Optical Glass;2.52;80.0;0.205;Ceramic
+Ohara S-BAM 4 Optical Glass;2.91;76.2;0.244;Ceramic
+Ohara S-BAM 3 Optical Glass;2.75;77.1;0.242;Ceramic
+Ohara S-BAL42 Optical Glass;3.19;84.7;0.246;Ceramic
+Ohara S-BAL41 Optical Glass;2.78;89.0;0.242;Ceramic
+Ohara S-BAL35 Optical Glass;3.31;83.2;0.250;Ceramic
+Ohara S-BAL14 Optical Glass;2.89;81.1;0.240;Ceramic
+Ohara S-NBH 5 Optical Glass;3.02;90.2;0.248;Ceramic
+Schott LG-760 Phosphate Laser Glass;2.60;53.7;0.267;Ceramic
+Schott LG-940 Phosphate Laser Glass;3.04;57.6;0.260;Ceramic
+Thermal Transfer Composites PRIMEX™ MCX724™ Aluminum Silicon Carbide Composite, Reinforced;2.94;235;0.230;Ceramic
+CeramTec MZ 429 Zirconia, ZrO2-Y2O3;6.05;210;0.300;Ceramic
+CeramTec MZ 111 Zirconia, ZrO2-Y2O3;6.08;210;0.300;Ceramic
+CeramTec ZN 40 Zirconia, ZrO2-MgO;5.74;210;0.300;Ceramic
+Ohara S-PHM53 Optical Glass;3.51;70.8;0.285;Ceramic
+Ohara S-LAL58 Optical Glass;4.03;92.8;0.285;Ceramic
+Ohara S-LAL18 Optical Glass;4.18;120;0.289;Ceramic
+Ohara S-LAL14 Optical Glass;3.70;112;0.284;Ceramic
+Ohara S-LAL12 Optical Glass;4.01;91.0;0.284;Ceramic
+Ohara S-LAL 9 Optical Glass;3.63;108;0.287;Ceramic
+Ohara S-LAL 8 Optical Glass;3.79;114;0.289;Ceramic
+Ohara S-LAH71 Optical Glass;4.36;110;0.281;Ceramic
+CeramTec 701 Cordierite;2.50;130;0.300;Ceramic
+Ohara S-FPM2 Optical Glass;4.17;75.7;0.287;Ceramic
+Ohara L-LAM60 Low Tg Optical Glass;4.20;115;0.289;Ceramic
+Ohara L-LAL13 Low Tg Optical Glass;3.69;108;0.285;Ceramic
+Ohara S-PHM52Q Optical Glass;3.51;840;0.285;Ceramic
+Ohara S-LAL54Q Optical Glass;3.36;1020;0.287;Ceramic
+Ohara S-LAL12Q Optical Glass;3.59;1070;0.289;Ceramic
+Ohara S-FPM 2 Optical Glass;4.17;757;0.287;Ceramic
+Schott N-LASF45HT 801350.363, Optical Glass;3.63;116;0.281;Ceramic
+Schott N-LASF9HT 850322.441, Optical Glass;4.41;109;0.288;Ceramic
+Schott P-LAK35 693532.385, Optical Glass;3.85;101;0.289;Ceramic
+Schott N-PSK53 620635.360, Optical Glass;3.60;78.0;0.288;Ceramic
+Schott N-LAF3 717480.414, Optical Glass;4.14;95.0;0.286;Ceramic
+Ohara L-LAM72 Low Tg Optical Glass;3.89;118;0.283;Ceramic
+Schott LAK9G15 691548.353, Optical Glass;3.53;108;0.288;Ceramic
+CeramTec 975 Alumina, 99.5%;3.90;380;0.300;Ceramic
+CeramTec MZ BE Zirconia 3Y-TZP, Dental Grade;6.04;214;0.300;Ceramic
+Ohara S-LAH89 Optical Glass;4.70;121;0.303;Ceramic
+Ohara S-LAH58 Optical Glass;5.52;127;0.301;Ceramic
+Ohara S-FPL55 Optical Glass;3.59;69.8;0.302;Ceramic
+Ohara S-FPL53 Optical Glass;3.62;69.1;0.303;Ceramic
+Ohara S-FPL51Y i-Line Optical Glass;3.66;71.6;0.302;Ceramic
+Ohara L-LAH91 Low Tg Optical Glass;4.29;114;0.301;Ceramic
+Ohara L-LAH90 Low Tg Optical Glass;4.65;115;0.304;Ceramic
+Ohara L-LAH87 Low Tg Optical Glass;4.34;115;0.301;Ceramic
+Ohara L-LAH86 Low Tg Optical Glass;4.90;109;0.302;Ceramic
+Ohara L-LAH84 Low Tg Optical Glass;4.62;112;0.303;Ceramic
+Ohara L-LAH81 Low Tg Optical Glass;4.53;113;0.300;Ceramic
+CeramTec 433 Alumina, 99.9%;4.00;400;0.300;Ceramic
+Ohara S-LAL20 Optical Glass;4.38;787;0.302;Ceramic
+Ohara S-LAH93 Optical Glass;4.83;1250;0.304;Ceramic
+Ohara S-LAH65VS Optical Glass;4.46;1220;0.300;Ceramic
+Ohara S-LAH63Q Optical Glass;4.45;1030;0.300;Ceramic
+Ohara S-LAH60MQ Optical Glass;4.71;953;0.302;Ceramic
+Ohara L-LAH94 Low Softening Temperature Optical Glass;4.89;1120;0.305;Ceramic
+CoorsTek TTZ (Dura-Z™) MgO Partially Stabilized Zirconia;5.72;200;0.300;Ceramic
+Schott N-LASF46B 904313.451, Optical Glass;4.51;121;0.303;Ceramic
+Schott LASF35 022291.541, Optical Glass;5.41;132;0.303;Ceramic
+Schott N-FK58 456909.365, Optical Glass;3.65;70.0;0.300;Ceramic
+Morgan Advanced Ceramics Nilcra Zirconia HIP'ed 3Y-TZP Grade Y-TZP;6.08;205;0.300;Ceramic
+Morgan Advanced Ceramics Nilcra Zirconia 3Y-TZP Grade Y-TZP;6.05;205;0.300;Ceramic
+Ohara S-LAH95 Optical Glass;4.64;1180;0.302;Ceramic
+Schott LG-770 Phosphate Laser Glass;2.59;47.3;0.253;Ceramic
+Ohara S-TIH53 Optical Glass;3.54;96.0;0.266;Ceramic
+Ohara S-TIH11 Optical Glass;3.24;91.2;0.255;Ceramic
+Ohara S-BSM10 Optical Glass;3.60;83.5;0.266;Ceramic
+Ohara S-BSM 9 Optical Glass;3.22;86.5;0.264;Ceramic
+Ohara S-BSM 4 Optical Glass;3.57;81.6;0.265;Ceramic
+Ohara S-BSM 2 Optical Glass;3.53;78.0;0.264;Ceramic
+Ohara S-BAM12 Optical Glass;3.18;90.4;0.253;Ceramic
+Ohara S-BAH32 Optical Glass;3.26;90.4;0.260;Ceramic
+Ohara S-BAH27 Optical Glass;3.67;93.6;0.272;Ceramic
+Ohara S-BAH11 Optical Glass;3.59;92.9;0.274;Ceramic
+Ohara S-BAH10 Optical Glass;3.48;96.2;0.273;Ceramic
+Ohara L-TIM28 Low Tg Optical Glass;2.88;84.5;0.254;Ceramic
+Ohara L-PHL2 Low Tg Optical Glass;3.03;64.5;0.272;Ceramic
+Ohara S-BSM14 Optical Glass;3.43;84.9;0.257;Ceramic
+Ohara L-PHL1 Low Tg Optical Glass;3.18;68.9;0.280;Ceramic
+Ohara L-LAL12 Low Tg Optical Glass;3.48;110;0.280;Ceramic
+Ohara L-BBH2 Low Tg Optical Glass;6.74;75.0;0.269;Ceramic
+Ohara L-BBH1 Low Tg Optical Glass;6.57;68.8;0.268;Ceramic
+Ohara L-BAL35 Low Tg Optical Glass;2.82;101;0.252;Ceramic
+Ohara BSM51Y i-Line Optical Glass;3.36;90.1;0.256;Ceramic
+Ohara S-NPH 7 Optical Glass;3.30;753;0.269;Ceramic
+Ohara S-LAL 7Q Optical Glass;3.24;1110;0.280;Ceramic
+Ohara S-LAH60V Optical Glass;4.43;1110;0.253;Ceramic
+Ohara L-TIM28P Low Softening Temperature Optical Glass;2.88;845;0.254;Ceramic
+Ohara L-BAL35P Low Softening Temperature Optical Glass;2.82;1010;0.252;Ceramic
+Thermal Transfer Composites PRIMEX Cast™ MCX-1195™ Aluminum Silicon Carbide Composite, Reinforced;2.87;151;0.280;Ceramic
+Ohara L-LAM69 Low Tg Optical Glass;3.24;113;0.273;Ceramic
+Ohara S-TIH14 Optical Glass;3.17;88.8;0.254;Ceramic
+Ohara S-BSM15 Optical Glass;3.60;85.4;0.265;Ceramic
+Ohara S-BSM18 Optical Glass;3.69;88.5;0.268;Ceramic
+Ohara S-TIH 6 Optical Glass;3.37;93.1;0.261;Ceramic
+Ohara S-TIH 4 Optical Glass;3.15;91.9;0.254;Ceramic
+Ohara S-TIH 3 Optical Glass;3.11;90.8;0.254;Ceramic
+Ohara S-NPH53 Optical Glass;3.78;88.6;0.258;Ceramic
+Ohara S-NPH 5 Optical Glass;3.71;92.9;0.256;Ceramic
+Ohara S-NPH 4 Optical Glass;3.61;94.5;0.254;Ceramic
+Ohara S-NBH57 Optical Glass;4.00;112;0.275;Ceramic
+Ohara S-NBH55 Optical Glass;3.68;105;0.269;Ceramic
+Ohara S-NBH51 Optical Glass;3.29;110;0.253;Ceramic
+Ohara S-LAM66 Optical Glass;3.55;121;0.280;Ceramic
+Ohara S-LAM59 Optical Glass;3.77;101;0.277;Ceramic
+Ohara S-BSM16 Optical Glass;3.59;87.8;0.262;Ceramic
+Ohara S-LAM58 Optical Glass;4.00;91.9;0.279;Ceramic
+Ohara S-LAM51 Optical Glass;3.79;101;0.278;Ceramic
+Ohara S-LAM 7 Optical Glass;3.81;97.0;0.273;Ceramic
+Ohara S-LAL56 Optical Glass;3.85;91.1;0.280;Ceramic
+Ohara S-LAL54 Optical Glass;3.82;87.7;0.277;Ceramic
+Ohara S-LAL 7 Optical Glass;3.73;95.8;0.271;Ceramic
+Ohara S-LAH55V Optical Glass;4.73;118;0.253;Ceramic
+Ohara S-BSM81 Optical Glass;3.06;106;0.271;Ceramic
+Ohara S-BSM71 Optical Glass;3.74;86.2;0.273;Ceramic
+Ohara S-BSM28 Optical Glass;3.23;85.3;0.258;Ceramic
+Ohara S-BSM25 Optical Glass;3.50;95.1;0.272;Ceramic
+Ohara S-BSM22 Optical Glass;3.24;87.4;0.265;Ceramic
+Ohara S-LAM52 Optical Glass;3.95;95.7;0.278;Ceramic
+Thermal Transfer Composites PRIMEX™ MCX-703™ Aluminum Silicon Carbide Composite, Reinforced;3.00;240;0.230;Ceramic
+Ohara S-NPH 1 Optical Glass;3.29;89.3;0.250;Ceramic
+Schott ZERODUR K20 Glass Ceramic;2.53;84.7;0.250;Ceramic
+CoorsTek AD-85 Alumina (nom. 85% Al2O3);3.42;221;0.220;Ceramic
+Steatite (Magnesium Silicon Oxide);2.50;100;0.240;Ceramic
+CeramTec 848 Zirconia, ZrO2•MgO;6.00;186;0.330;Ceramic
+Mullite, 3Al2O3-2SiO2;2.80;150;0.250;Ceramic
+Vanadium Carbide, VC;5.71;344.0;0.220;Ceramic
+Tantalum Carbide, TaC;14.3;481.5;0.240;Ceramic
+Niobium Carbide, NbC;7.71;433.5;0.220;Ceramic
+Alumina, alpha Al2O3, 96%;3.72;303;0.210;Ceramic
+Alumina, alpha Al2O3, 99.5%;3.90;370;0.220;Ceramic
+Corundum, Aluminum Oxide, Alumina, 99.9%, Al2O3;3.96;370;0.220;Ceramic
+CoorsTek AD-90 Alumina (nom. 90% Al2O3);3.60;276;0.220;Ceramic
+Mateck Thallium Bromoiodide TIBr-TII (KRS-5);7.37;31.0;0.370;Ceramic
+Silicon Carbide, Alpha SiC;3.16;410;0.140;Ceramic
+Silicon Carbide, Reaction-Bonded, SiSiC;3.0;375.0;0.18;Ceramic
+Titanium Carbide, TiC;4.94;449.5;0.18;Ceramic
+Thermal Transfer Composites PRIMEX™ MCX-693™ Aluminum Silicon Carbide Composite, Reinforced;2.98;255;0.240;Ceramic
+Zirconium Carbide, ZrC;6.64;375.5;0.2;Ceramic
+96% Silica Consolidated Reconstructed Glass;2.18;68.0;0.190;Ceramic
+Fused Quartz;2.20;74.0;0.170;Ceramic
+CeramTec CD 110 Silicon Carbide, SSiC;3.10;415;0.160;Ceramic
+CeramTec Rocar SiG Silicon Carbide, SiSiC;3.07;380;0.170;Ceramic
+CeramTec Rocar ST Silicon Carbide, SSiC;3.11;420;0.160;Ceramic
+Hafnium Carbide, HfC;12.5;352;0.180;Ceramic
+CoorsTek AD-94 Alumina (nom. 94% Al2O3);3.70;303;0.210;Ceramic
+CoorsTek FG-995 Alumina (nom. 98.5% Al2O3);3.80;350;0.220;Ceramic
+CoorsTek AD-998 Alumina(nom. 99.8% Al2O3);3.92;370;0.220;Ceramic
+CoorsTek SAPPHAL Advanced Alumina;3.99;395;0.230;Ceramic
+CeramTec Rubalit A 1894 Alumina, 94%;3.70;320;0.220;Ceramic
+CeramTec 950 Zirconia Toughened Alumina (ZTA), Al2O3•ZrO2;4.40;289;0.220;Ceramic
+CeramTec Rubalit A 1999.5 Alumina, 99.7%;3.88;350;0.230;Ceramic
+CeramTec 614/698 Alumina, 96%;3.70;276;0.240;Ceramic
+CeramTec 665 Steatite, MgO•SiO2;2.80;117;0.250;Ceramic
+CeramTec Rubalit IS 95 Brown Alumina;3.72;300;0.230;Ceramic
+CeramTec Rubalit IS 95 Alumina;3.73;330;0.230;Ceramic
+CeramTec DN 70 Dispersion Ceramic, Al2O3-ZrO2;4.01;360;0.230;Ceramic
+CeramTec DC 25 Dispersion Ceramic, Al2O3-ZrO2;4.37;357;0.240;Ceramic
+CeramTec RK 87 Alumina, 99.8%;3.96;406;0.230;Ceramic
+CeramTec AT 79 Alumina, 99.6%;3.95;390;0.230;Ceramic
+CeramTec V 679 Alumina, 99.7%;3.90;390;0.230;Ceramic
+CeramTec B 40 Alumina, 99.1%;3.82;360;0.230;Ceramic
+CeramTec B 601 Alumina, 98.5%;3.83;320;0.220;Ceramic
+CeramTec V 38 Alumina, 96.0% Al2O3-SiO2;3.75;350;0.230;Ceramic
+Ferro Zirmonite 1000, TZP;6.05;172;0.330;Ceramic
+ENrG Thin E-Strate Zirconia Ribbon Ceramic Substrate;6.04;207;0.320;Ceramic
+CeramTec 771 94% Alumina (Al2O3);3.60;281;0.240;Ceramic
+CoorsTek Cercom PAD SIC-B4C Pressure Assisted Densification SiC with Boron Carbide;3.05;450;0.160;Ceramic
+ERG Aerospace Duocel Silicon Carbide Foam;0.27;4.82;0.220;Ceramic
+Advanced Ceramics ZEMAT ACL 2090 - Zero Expansion Glass-Ceramic;2.53;89.6;0.240;Ceramic
+CoorsTek PlasmaPure™ AD-998 Alumina (nom. 99.8% Al2O3);3.93;370;0.220;Ceramic
+CeramTec CD 101 Silicon Carbide, SiC-ZrB2;3.26;415;0.160;Ceramic
+CoorsTek ADS 11 Advanced Alumina;3.90;360;0.240;Ceramic
+CeramTec 447 Cordierite;1.80;125;0.200;Ceramic
+M Cubed Technologies TSC-15 Titanium-alloyed Reaction Bonded Silicon Carbide;3.13;390;0.190;Ceramic
+CoorsTek FUSED QUARTZ Min. 99.99% SiO2;2.20;72.0;0.160;Ceramic
+Ferro Aluminum Oxide P87;3.48;248;0.200;Ceramic
+CoorsTek CeraSiC -B Direct Sintered Silicon Carbide;3.01;420;0.180;Ceramic
+CoorsTek UltraSiC™ GI (SC-35) Graphite Direct Sintered Silicon Carbide;2.90;310;0.180;Ceramic
+3M Techical Ceramics Titanium Diboride;4.50;575;0.110;Ceramic
+3M Techical Ceramics Ekasic T Plus Silicon Carbide;3.24;430;0.170;Ceramic
+3M Techical Ceramics Ekasic G Silicon Carbide;3.02;390;0.150;Ceramic
+3M Techical Ceramics Ekasic P Silicon Carbide;2.83;340;0.130;Ceramic
+3M Techical Ceramics Ekasic F Plus Silicon Carbide;3.18;430;0.170;Ceramic
+3M Techical Ceramics Boron Carbide Powder;2.48;420;0.180;Ceramic
+A-Glass Fiber, Generic;2.44;68.9;0.183;Ceramic
+3M Techical Ceramics Ekasic T Silicone Carbide;3.21;420;0.170;Ceramic
+Corning Willow Flexible Display Glass;2.4;75.0;0.23;Ceramic
+Corning TSG Titania Silicate Low Expansion Glass;2.21;67.6;0.170;Ceramic
+Corning HPFS 7979 IR Grade High Purity Fused Silica;2.20;73.0;0.160;Ceramic
+CoorsTek Superstrate TPS 99.6% Alumina Thin Film;3.95;372;0.200;Ceramic
+CoorsTek ADS-995 99.5% Alumina Thin Film;3.88;372;0.200;Ceramic
+CoorsTek RB B4C Reaction-Bonded Boron Carbide;2.65;379;0.180;Ceramic
+CoorsTek Cercom PAD TIB2 Pressure Assisted Densification Titanium Diboride;4.48;555;0.110;Ceramic
+CoorsTek Cercom PAD B4C-SIC Pressure Assisted Densification Boron Carbide w/ Silicon Carbide;2.63;455;0.160;Ceramic
+CoorsTek Cercom PAD SIC X-1 Pressure Assisted Densification BallisticGrade Silicon Carbide;3.23;455;0.140;Ceramic
+CoorsTek Cercom PAD SIC-N Pressure Assisted Densification Silicon Carbide;3.20;460;0.140;Ceramic
+3M Techical Ceramics Ekasic C Silicone Carbide;3.15;440;0.170;Ceramic
+E-Glass Fiber, Generic;2.57;72.4;0.200;Ceramic
+Goodfellow Titanium Diboride, TiB2;4.50;545.0;0.19;Ceramic
+Mateck Fused Silica UV-VIS Grade (SiO2);2.21;73.6;0.170;Ceramic
+M Cubed Technologies SSC-903 Reaction-Bonded Silicon Carbide;3.01;360;0.170;Ceramic
+M Cubed Technologies SSC-702 Reaction-Bonded Silicon Carbide;3.00;350;0.180;Ceramic
+M Cubed Technologies SSC-FG Reaction-Bonded Silicon Carbide, Fine-Grained;3.00;330;0.180;Ceramic
+M Cubed Technologies HSC-702 Aluminum-toughened Reaction Bonded Silicon Carbide;3.02;330;0.190;Ceramic
+CeramTec Rocar S Silicon Carbide, SSiC;3.15;430;0.170;Ceramic
+CeramTec Rocar SiF Silicon Carbide, SiSiC;3.07;395;0.170;Ceramic
+CoorsTek HPB4C Hot Pressed Boron Carbide;2.50;460;0.170;Ceramic
+Ohara S-TIL 6 Optical Glass;2.50;64.8;0.146;Ceramic
+Ohara S-NSL36 Optical Glass;2.46;64.0;0.139;Ceramic
+Ohara S-NSL 5 Optical Glass;2.49;69.1;0.140;Ceramic
+Ohara S-BAL12 Optical Glass;2.75;71.0;0.161;Ceramic
+CoorsTek SC-BNL (SC-42) Loaded Reaction Bonded Silicon Carbide;2.90;150;0.200;Ceramic
+CoorsTek SC-DSG (SC-35) Graphite Loaded Sintered Silicon Carbide;2.80;310;0.180;Ceramic
+CoorsTek Reaction Bonded Silicon Carbide, SCRB (SC-2);3.10;393;0.190;Ceramic
+Saint-Gobain Quartzel Fused Quartz Textiles;2.20;78.0;0.160;Ceramic
+Saint-Gobain Puropsil B Infrared Grade Low [OH] Optical Fused Quartz;2.21;74.0;0.170;Ceramic
+Schott BOROFLOAT Borosilicate Float Glass;2.23;63.0;0.200;Ceramic
+Potters Industries Spheriglass 1922 Solid Glass Spheres;2.50;68.9;0.160;Ceramic
+Poco Graphite SUPERSiC Si-3C Silicon Carbide;3.03;338;0.170;Ceramic
+Poco Graphite SUPERSiC 3C Silicon Carbide;3.15;216;0.170;Ceramic
+Morgan Advanced Ceramics Alumina AL998A Aluminum Oxide Ceramic;3.94;391;0.190;Ceramic
+Mateck Potassium Chloride (KCl);1.98;27.5;0.134;Ceramic
+Mateck Potassium Bromide (KBr);2.75;23.4;0.138;Ceramic
+M Cubed Technologies RBBC-751 Reaction Bonded Boron Carbide;2.56;380;0.180;Ceramic
+CoorsTek UltraSiC™ SC-90 Plus Silicon Carbide (SiC);3.15;410;0.210;Ceramic
+CeramTec 645 Steatite (MgO-SiO2);2.70;107;0.230;Ceramic
+CoorsTek PLASMAPURE™ AD-998-I2 Min. 99.8% Al2O3;3.92;380;0.220;Ceramic
+Schott BAFN6 5899485.317, Optical Glass;3.17;77.0;0.234;Ceramic
+Schott D 263 Thin Borosilicate Glass;2.51;72.9;0.208;Ceramic
+Schott AF 45 Thin Borosilicate Glass;2.72;66.0;0.235;Ceramic
+724-3 Nextrema Transparent Glass Ceramic/SCHOTT;2.54;93.0;0.250;Ceramic
+712-3 Nextrema Tinted Glass Ceramic/SCHOTT;2.55;92.0;0.250;Ceramic
+Piezo Kinetics PKI 804 Navy Type III Lead Zirconate Titanate Piezoelectric;7.70;73.0;0.250;Ceramic
+Piezo Kinetics PKI 556 Lead Zirconate Titanate Piezoelectric;7.80;58.0;0.220;Ceramic
+Materion Durox UHP 99.9% Al2O3;3.95;375;0.220;Ceramic
+Materion Durox AL 99.8% Al2O3;3.94;375;0.220;Ceramic
+Materion Durox 997 99.7% Al2O3;3.90;375;0.220;Ceramic
+CoorsTek UltraSiC™ LP SC-52 Silicon Carbide (SiC);3.22;375;0.210;Ceramic
+Schott BK7G18 520636.252, Optical Glass;2.52;82.0;0.205;Ceramic
+Mateck Sodium Chloride (NaCl);2.17;38.2;0.203;Ceramic
+Mateck Calcium Fluoride (CaF2);3.18;117.95;0.216;Ceramic
+Mateck Cesium Iodide, CsI;4.51;2.00;0.214;Ceramic
+AGY VeTron Glass Fiber;2.50;86.0;0.220;Ceramic
+S-Glass Fiber, Generic;2.49;86.2;0.220;Ceramic
+S-2 Glass Fiber;2.46;86.9;0.230;Ceramic
+Ferro Zirmonite 200, ZTA;4.48;278;0.220;Ceramic
+Ferro Aluminum Oxide P96;3.75;310;0.250;Ceramic
+Ferro Aluminum Oxide P3142;3.70;318;0.210;Ceramic
+Ferro Aluminum Oxide P3640;3.67;276;0.210;Ceramic
+Ferro Aluminum Oxide P890;3.57;293;0.210;Ceramic
+Corning Eagle XG Slim Display Glass;2.38;73.6;0.230;Ceramic
+Mateck Glass (BK7 Schott or analogous);2.51;81.0;0.206;Ceramic
+Schott F2G12 621366.360, Optical Glass;3.60;58.0;0.220;Ceramic
+Schott FK3 464658.227, Optical Glass;2.27;46.0;0.243;Ceramic
+Schott K5G20 523568.259, Optical Glass;2.59;68.0;0.222;Ceramic
+Schott ZERODUR Glass Ceramic;2.53;90.3;0.240;Ceramic
+Schott LG-680 Silicate Laser Glass;2.54;90.1;0.242;Ceramic
+Schott IOG-10 Phosphate Laser Glass;2.71;71.0;0.240;Ceramic
+Schott IOG-1 Phosphate Laser Glass;2.74;61.2;0.240;Ceramic
+Schott IRG 24 Infrared Chalcogenide Glass;4.47;20.5;0.209;Ceramic
+Schott IRG 23 Infrared Chalcogenide Glass;4.84;22.0;0.237;Ceramic
+Schott IRG 22 Infrared Chalcogenide Glass;4.41;21.5;0.209;Ceramic
+Schott S7010N Plassive Glasses Laser Cavity Material;2.83;78.0;0.247;Ceramic
+Schott N-KZFS4HT 613445.300, Optical Glass;3.00;78.0;0.241;Ceramic
+Schott SF11 785258.474, Optical Glass;4.74;66.0;0.235;Ceramic
+Schott LF5HTi 581409.322, Optical Glass;3.22;59.0;0.223;Ceramic
+Schott LLF1HTi 548459.294, Optical Glass;2.94;60.0;0.208;Ceramic
+Schott P-SK58A 589612.297, Optical Glass;2.97;97.0;0.245;Ceramic
+Schott P-SK57Q1 586595.301, Optical Glass;3.01;93.0;0.249;Ceramic
+Schott N-BAK4HT 569560.305, Optical Glass;3.05;77.0;0.240;Ceramic
+Schott P-BK7 516641.243, Optical Glass;2.43;85.0;0.202;Ceramic
+Schott N-BK7HT 517642.251, Optical Glass;2.51;82.0;0.206;Ceramic
+Schott FK5HTi 487705.245, Glass;2.45;62.0;0.232;Ceramic
+Schott SFL57 847236.355, Optical Glass;3.55;97.0;0.216;Ceramic
+Schott SF57HT 847238.551, Optical Glass;5.51;54.0;0.248;Ceramic
+Schott N-SF64 706302.299, Optical Glass;2.99;88.0;0.245;Ceramic
+Schott N-SF19 667331.290, Optical Glass;2.90;88.0;0.231;Ceramic
+Schott N-BAF3 583466.297, Optical Glass;2.79;82.0;0.226;Ceramic
+Schott LF5G19 597399.330, Optical Glass;3.30;56.0;0.242;Ceramic
+Schott LF5G15 584408.322, Optical Glass;3.22;60.0;0.228;Ceramic
+Corning Astra™ Alkaline Earth Boro-Aluminosilicate Display Glass;2.52;81.0;0.230;Ceramic
+Corning Lotus™ NXT Display Glass;2.59;83.0;0.230;Ceramic
+Mateck Zero Expansion Glass - ZERODUR;2.53;91.0;0.240;Ceramic
+CoorsTek Cercom PAD B4C Pressure Assisted Densification Boron Carbide;2.49;430;0.160;Ceramic
+CoorsTek ACI-Co6 Tungsten Carbide;14.9;627;0.210;Ceramic
+CoorsTek ACI-Co10 Tungsten Carbide;14.5;593;0.220;Ceramic
+CoorsTek ADOS-90R 91% Alumina Thick Film Substrate;3.72;310;0.240;Ceramic
+CoorsTek ADS-96R 96% Alumina Thick Film Substrate;3.75;331;0.250;Ceramic
+CoorsTek ADS-995R MidFilm™ 99.5% Alumina Thick Film;3.90;379;0.240;Ceramic
+Mateck Magnesium Fluoride (MgF2);3.18;124.35;0.577;Ceramic
+Corning Polarcor™ Glass Polarizer, 633 nm Nominal Wavelength;2.41;58.6;0.210;Ceramic
+Ohara S-LAH52Q Optical Glass;4.47;1100;0.313;Ceramic
+CoorsTek ACI-Ni10 Tungsten Carbide;14.4;572;0.230;Ceramic
+CoorsTek Cercom PAD EBON-A Pressure Assisted Densification Black Alumina;3.93;390;0.220;Ceramic
+CoorsTek ACI-Ni6 Tungsten Carbide;14.9;607;0.250;Ceramic
+Corning 7056 Alkali Borosilicate Crushed/Powdered Glass;2.29;62.8;0.210;Ceramic
+CoorsTek PLASMAPURE-UC™ SA-999-I Min. 99.9% Al2O3;3.92;386;0.220;Ceramic
+Corning 7070 Lithia Potash Borosilicate Crushed/Powdered Glass;2.13;51.0;0.220;Ceramic
+Corning Gorilla Glass 3 Touch Screen Glass with NDR;2.39;69.3;0.220;Ceramic
+Corning Gorilla Glass 5 Display Glass;2.43;76.7;0.210;Ceramic
+Corning Gorilla Glass 6 Display Glass;2.40;77.0;0.210;Ceramic
+Corning Large Cover Gorilla Glass Touch Screen Glass;2.44;71.7;0.210;Ceramic
+Corning 7052 Alkali Barium Borosilicate Sealing Glass Powder;2.27;57.6;0.220;Ceramic
+Meehanite GE-30 Flake Graphite Cast Iron;7.06;89.6;0.270;FerrousMetal
+HP Alloys Nitronic 60 Austenitic Stainless, Annealed;7.62;179;0.300;FerrousMetal
+Meehanite GC-40 Flake Graphite Cast Iron;7.25;114;0.300;FerrousMetal
+Sandvik 9RU10 Spring Wire;7.90;192.5;0.300;FerrousMetal
+Sandvik SAF 2205 Spring Wire;7.85;202.5;0.300;FerrousMetal
+Industeel URANUS 65 310 L Modified Grade - Low C and Si for Nitric Acid Service;7.90;195;0.300;FerrousMetal
+Carpenter Custom 630 (17-Cr-4Ni) Precipitation Hardening Stainless Steel, Condition H 1150 (Heated 621°C);7.82;197;0.272;FerrousMetal
+Dura-Bar 60-40-18 Continuously Cast Ductile Iron Bar Stock ASTM A536, 4018;6.92;172;0.275;FerrousMetal
+Crucible Steel 20 Cb Plus Stainless Steel;8.05;193;0.270;FerrousMetal
+Sandvik Kanthal AMPT Construction materials;7.25;220;0.300;FerrousMetal
+416 Plus X Martensitic Stainless Steel (UNS S41610);7.80;209.5;0.283;FerrousMetal
+Carpenter Custom 630 (17-Cr-4Ni) Precipitation Hardening Stainless Steel, Annealed;7.75;197;0.272;FerrousMetal
+Sandvik Kanthal APM Construction materials;7.10;220;0.300;FerrousMetal
+International Mold Steel DC53 General-Purpose Cold Work Die and Mold Steel;7.76;150;0.280;FerrousMetal
+410 Cb Martensitic Stainless Steel (UNS S41040);7.73;209.5;0.283;FerrousMetal
+AISI 4340 Steel, oil quenched 845°C, 425°C (800°F) temper;7.85;212;0.300;FerrousMetal
+Latrobe LSS™ 17-4 Precipitation Hardening Stainless Steel (ASTM Type 360);7.8;197;0.272;FerrousMetal
+Type 332 Austenitic Stainless Steel, Hot worked Bar, UNS N08800;8.03;196;0.340;FerrousMetal
+Medical Grade Stainless Steel 316LVM;8.00;188;0.330;FerrousMetal
+American Utility Metals Cromgard Stainless Steel;7.66;200;0.320;FerrousMetal
+AISI Grade 18Ni (200) Maraging Steel, Annealed;8.00;183;0.300;FerrousMetal
+AISI Grade 18Ni (250) Maraging Steel, nominal annealed properties;8.00;190;0.300;FerrousMetal
+AISI Grade 18Ni (350) Maraging Steel nominal annealed properties;8.08;200;0.300;FerrousMetal
+Meehanite GF-20 Flake Graphite Cast Iron;6.80;62.1;0.240;FerrousMetal
+Carpenter Custom 455 Stainless Steel, Annealed, 25 mm Bar;7.76;200;0.300;FerrousMetal
+AISI 4340 Steel, oil quenched 855°C (1570°F), 230°C (450°F) temper for 4 hrs.;7.85;196;0.300;FerrousMetal
+AISI E 52100 Steel (100Cr6, SUJ2, UNS G52986);7.81;210;0.300;FerrousMetal
+Industeel URANUS B26 6 Mo High Performance Super-Austenitic Stainless Steel with PREN = 43;8.10;195;0.300;FerrousMetal
+Industeel URANUS B66 High Strength Super-Austenitic Stainless Steel with PREN = 54;8.20;195;0.300;FerrousMetal
+ATI Allegheny Ludlum Altemp A286 Iron-Base Superalloy, UNS S66286;7.92;201;0.300;FerrousMetal
+AISI 8630 Steel, normalized;7.85;187;0.300;FerrousMetal
+Ductile Iron compression grade 65-45-12;7.15;163;0.310;FerrousMetal
+Latrobe Lescalloy 13-8 Mo VIM-VAR Precipitation Hardening Stainless Steel;7.72;195;0.278;FerrousMetal
+ASTM A690 HSLA Steel, Thickness < 100 mm (4 in.);7.80;205;0.280;FerrousMetal
+Industeel URANUS 47N+ 25 Cr Super Duplex Stainless Steel with PREN = 40;7.82;200;0.333;FerrousMetal
+300M Ultrahigh Strength Steel;7.87;205;0.280;FerrousMetal
+ASTM A588 HSLA Steel Grade A, Thickness < 100 mm (4 in.);7.75;205;0.280;FerrousMetal
+ASTM A897 Grade 4 (200-155-01 or 200-155-02) Austempered Ductile Iron;7.07;160.5;0.250;FerrousMetal
+ASTM A897 Grade 3 (175-125-04) Austempered Ductile Iron;7.08;162.5;0.250;FerrousMetal
+ASTM A897 Grade 2 (150-100-07 or 150-110-7) Austempered Ductile Iron;7.09;164.0;0.250;FerrousMetal
+ASTM A897/A897M-06 Grade 1 (130-90-09) Austempered Ductile Iron;7.09;166.5;0.250;FerrousMetal
+ASTM A897/A897M-06 Grade 750 (110-70-11) Austempered Ductile Iron;7.10;166.5;0.250;FerrousMetal
+Meehanite Ductliron SH-100 Nodular Graphite Ductile Iron;7.22;165;0.370;FerrousMetal
+Meehanite Ductliron SF-60 Nodular Graphite Ductile Iron;7.18;165;0.320;FerrousMetal
+Meehanite GA-50 Flake Graphite Cast Iron;7.31;138;0.320;FerrousMetal
+Meehanite GM-60 Flake Graphite Cast Iron;7.34;148;0.330;FerrousMetal
+Meehanite AQ Flake Graphite Cast Iron;7.34;152;0.330;FerrousMetal
+Industeel URANUS B6 Multipurpose Austenitic Stainless Steel with PREN = 34;8.05;200;0.333;FerrousMetal
+Carpenter 20Cb-3 Stainless Steel, Bar, Annealed at 1750°F (955°C) then Water Quenched;8.08;193;0.310;FerrousMetal
+Meehanite Ductliron SP-80 Nodular Graphite Ductile Iron;7.20;172;0.370;FerrousMetal
+Special Metals INCOLOY 25-6MO Super Austenitic Stainless Steel (UNS N08926);8.03;188;0.330;FerrousMetal
+302 Stainless Steel, annealed strip;7.86;193;0.250;FerrousMetal
+44 LN Duplex Stainless Steel (UNS S31200);7.80;196.0;0.27;FerrousMetal
+ASTM A897 Grade 5 (230-185-00 or 230-185-01) Austempered Ductile Iron;7.06;159.0;0.250;FerrousMetal
+AK Steel 304 Austenitic Stainless steel;8.03;193;0.240;FerrousMetal
+AK Steel 321 Austenitic Stainless steel;9.01;193;0.240;FerrousMetal
+442 Ferritic Stainless Steel Annealed Plate, Sheet, Strip (UNS S44200);7.80;207.5;0.28;FerrousMetal
+439 Ferritic Stainless Steel (UNS S43900);7.70;207.5;0.28;FerrousMetal
+Ductile Iron compression grade 80-55-06;7.15;165;0.310;FerrousMetal
+Ductile Iron tension grade 120-90-02;7.15;164;0.280;FerrousMetal
+AISI 2330 Steel (UNS G23300);7.75;205.0;0.29;FerrousMetal
+AK Steel 301 Austenitic Stainless steel;7.88;193;0.240;FerrousMetal
+Aluminum 296.0-T4, Cast;2.80;69.0;0.330;NonferrousMetal
+Aluminum 328.0-F, Sand Cast;2.70;73.0;0.330;NonferrousMetal
+Aluminum 2007-T3;2.82;73.0;0.330;NonferrousMetal
+Aluminum A380.0-F Die Casting Alloy;2.76;71.0;0.330;NonferrousMetal
+Aluminum 1180-H18;2.70;67.0;0.330;NonferrousMetal
+Aluminum 332.0-T5, Permanent Mold Cast;2.76;73.0;0.330;NonferrousMetal
+Aluminum 336.0-T551, Permanent Mold Cast;2.72;73.0;0.330;NonferrousMetal
+Aluminum A380.0-T5, Casting Alloy;2.74;71.0;0.330;NonferrousMetal
+Aluminum A360.0-F Die Casting Alloy;2.68;71.0;0.330;NonferrousMetal
+Aluminum 354.0-T61, Permanent Mold Cast;2.71;73.1;0.330;NonferrousMetal
+Aluminum 355.0-T71, Permanent Mold Cast;2.71;70.3;0.330;NonferrousMetal
+Aluminum 1199-H18;2.70;62.0;0.330;NonferrousMetal
+Aluminum C355.0-T61, Permanent Mold Cast;2.71;69.6;0.330;NonferrousMetal
+Aluminum 356.0-T71, Permanent Mold Cast;2.68;72.4;0.330;NonferrousMetal
+Aluminum A356.0-T61, Permanent Mold Cast;2.67;72.4;0.330;NonferrousMetal
+Aluminum 333.0-F, Permanent Mold Cast;2.77;73.0;0.330;NonferrousMetal
+Aluminum 319.0-F, Permanent Mold Cast;2.79;74.0;0.330;NonferrousMetal
+Aluminum 2124-O;2.78;73.0;0.330;NonferrousMetal
+Aluminum 242.0-T571, Permanent Mold Cast;2.81;71.0;0.330;NonferrousMetal
+Aluminum 2319;2.84;72.0;0.330;NonferrousMetal
+Aluminum 2618-T61;2.76;74.5;0.330;NonferrousMetal
+Alclad Aluminum 3003-H112;2.73;70.0;0.330;NonferrousMetal
+Aluminum 3003-H19 Foil;2.73;69.0;0.330;NonferrousMetal
+Aluminum 3102-H112;2.71;71.0;0.330;NonferrousMetal
+Aluminum 4032-T6;2.68;78.6;0.340;NonferrousMetal
+Aluminum 7005-O;2.78;72.0;0.330;NonferrousMetal
+Aluminum 7001-O;2.84;71.0;0.330;NonferrousMetal
+Aluminum 5657-O;2.69;69.0;0.330;NonferrousMetal
+Aluminum 5652-H32;2.67;70.3;0.330;NonferrousMetal
+Aluminum 5454-H112;2.69;70.3;0.330;NonferrousMetal
+Aluminum 5356;2.64;70.0;0.330;NonferrousMetal
+Aluminum 2219-O;2.84;73.1;0.330;NonferrousMetal
+Aluminum 5252-O;2.67;69.0;0.330;NonferrousMetal
+Aluminum 5182-H19;2.65;69.6;0.330;NonferrousMetal
+Aluminum 5086-H112;2.66;71.0;0.330;NonferrousMetal
+Aluminum 5083-O;2.66;70.65;0.330;NonferrousMetal
+Aluminum 5083-H112;2.66;70.3;0.330;NonferrousMetal
+Aluminum 5082-H19;2.65;70.0;0.330;NonferrousMetal
+Aluminum 5056-H191 Foil;2.64;72.0;0.330;NonferrousMetal
+Aluminum 5056-H18;2.64;71.0;0.330;NonferrousMetal
+Aluminum 5052-H32;2.68;70.3;0.330;NonferrousMetal
+Aluminum 5052-H19 Foil;2.68;70.0;0.330;NonferrousMetal
+Aluminum 5050-H32;2.69;68.9;0.330;NonferrousMetal
+Aluminum A443.0;2.69;71.0;0.330;NonferrousMetal
+Aluminum 5042-H19;2.67;70.0;0.330;NonferrousMetal
+Aluminum 5252-H28;2.67;68.9;0.330;NonferrousMetal
+Aluminum 295.0-T4, Sand Cast;2.81;70.0;0.330;NonferrousMetal
+Alclad Aluminum 2219-O;2.84;73.8;0.330;NonferrousMetal
+Aluminum 2218-T61;2.81;74.4;0.330;NonferrousMetal
+Aluminum 242.0-O, Sand Cast;2.82;71.0;0.330;NonferrousMetal
+Aluminum 222.0-O, Sand Cast;2.95;71.0;0.330;NonferrousMetal
+Aluminum 208.0-F, Sand Cast;2.79;71.0;0.330;NonferrousMetal
+Aluminum A206.0-T7 Casting Alloy;2.80;70.0;0.330;NonferrousMetal
+Aluminum 201.0-T4, Sand Cast;2.80;71.0;0.330;NonferrousMetal
+Aluminum 8001-H18;2.75;70.0;0.330;NonferrousMetal
+Aluminum 7175-T66;2.80;72.0;0.330;NonferrousMetal
+Aluminum 7076-T61;2.84;67.0;0.330;NonferrousMetal
+Aluminum 7072-H113;2.72;68.0;0.330;NonferrousMetal
+Aluminum 7050-T73652 forgings;2.83;71.7;0.330;NonferrousMetal
+Aluminum 7039-O;2.74;69.6;0.330;NonferrousMetal
+Aluminum 7029-T5;2.77;72.0;0.330;NonferrousMetal
+Aluminum 2218-T72;2.81;74.5;0.330;NonferrousMetal
+Aluminum 7016-T5;2.78;71.0;0.330;NonferrousMetal
+Aluminum 2011-T4;2.82;70.0;0.330;NonferrousMetal
+Aluminum 2011-T6;2.83;70.0;0.330;NonferrousMetal
+Aluminum 2014-O;2.80;72.75;0.330;NonferrousMetal
+Aluminum 2018-T61;2.82;74.5;0.330;NonferrousMetal
+Alclad Aluminum 2024-T42;2.77;72.4;0.330;NonferrousMetal
+Aluminum 2024-T6;2.78;72.4;0.330;NonferrousMetal
+Aluminum 2025-T6;2.81;71.7;0.330;NonferrousMetal
+Aluminum 2030-T3;2.81;73.0;0.330;NonferrousMetal
+Aluminum 2036-T4;2.75;71.0;0.330;NonferrousMetal
+Aluminum 2048-T851 Plate;2.75;73.5;0.330;NonferrousMetal
+Aluminum 2090-O;2.59;76.0;0.340;NonferrousMetal
+Aluminum 2124-T851 (Extended High Temperature Data);2.78;72.55;0.330;NonferrousMetal
+Aluminum 2011-T3;2.83;70.3;0.330;NonferrousMetal
+Aluminum 518.0-F Die Casting Alloy;2.57;69.0;0.330;NonferrousMetal
+Titanium Transage 134, Triplex Heat Treat 815/595/480°C;4.73;105;0.330;NonferrousMetal
+Aluminum A535.0-F or Aluminum 535.0-T5, Cast;2.62;71.0;0.330;NonferrousMetal
+Titanium Ti-6Al-6V-2Sn (Ti-6-6-2) STA 870°C/565°C;4.54;112;0.320;NonferrousMetal
+Titanium Ti-5Al-6Sn-2Zr-1Mo-0.25Si;4.51;125;0.326;NonferrousMetal
+Titanium Ti-5Al-5Sn-2Zr-2Mo-0.25Si (Ti-5522S);4.52;114;0.326;NonferrousMetal
+Titanium Ti-4Al-4Mo-2Sn-0.5Si (IMI550), STA;4.57;115;0.330;NonferrousMetal
+Titanium Ti-6Al-2Sn-2Zr-2Mo-2Cr-.25Si Alpha-Beta Processed + Aged;4.65;108;0.330;NonferrousMetal
+Titanium Ti-6Al-2Sn-2Zr-2Mo-2Cr-.25Si;4.65;123;0.330;NonferrousMetal
+Titanium Ti-6Al-2Sn-2Zr-2Mo-2Cr-.25Si, STA;4.65;122;0.327;NonferrousMetal
+Titanium Ti-5Al-2Sn-2Zr-4Mo-4Cr (Ti-17) Alpha-Beta Processed;4.65;115;0.330;NonferrousMetal
+Titanium Ti-8Mn, Annealed;4.73;115;0.330;NonferrousMetal
+Titanium Ti-4.5Al-5Mo-1.5Cr (Corona 5);4.54;110;0.330;NonferrousMetal
+Titanium Beta-CEZ ST 830°C (1525°F), Aged 550°C;4.69;122;0.330;NonferrousMetal
+Titanium Ti-8Mo-8V-2Fe-3Al ST 800°C, Aged 595°C (1100°F);4.85;94.0;0.330;NonferrousMetal
+Titanium Ti-8Mo-8V-2Fe-3Al ST 800°C, Aged 480°C (900°F);4.85;110;0.330;NonferrousMetal
+Titanium Ti-8Mo-8V-2Fe-3Al ST 785°C, Aged 480°C (900°F);4.85;120;0.330;NonferrousMetal
+Titanium Ti-8Mo-8V-2Fe-3Al, ST 785°C, Quenched;4.85;86.0;0.330;NonferrousMetal
+Titanium Ti-15Mo-5Zr-3Al ST 850°C (1560°F), Aged 500°C;5.01;100;0.330;NonferrousMetal
+Titanium Ti-15V-3Cr-3Al-3Sn ST 790°C, Aged 480°C (900°F);4.76;100;0.330;NonferrousMetal
+Titanium Ti-15V-3Cr-3Al-3Sn Solution Treated;4.76;82.0;0.330;NonferrousMetal
+Titanium Ti-13V-2.7Al-7Sn-2Zr, ST 815°C, Aged 580°C;4.70;105;0.330;NonferrousMetal
+Titanium Transage 175 ST 815°C, Aged 480°C (900°F);4.70;100;0.330;NonferrousMetal
+Titanium Transage 129, Triplex Heat Treat 760/650/480°C;4.82;108;0.330;NonferrousMetal
+Titanium Beta-21S (Grade 21);4.94;105;0.330;NonferrousMetal
+Titanium Ti-15Mo-5Zr ST 730°C, Aged 475°C;5.06;105;0.330;NonferrousMetal
+Titanium Ti-6Al-6V-2Sn (Ti-6-6-2) STA 910°C/540°C (1000°F);4.54;117;0.320;NonferrousMetal
+Titanium Ti-7Al-4Mo Annealed;4.48;111;0.320;NonferrousMetal
+Titanium Grade 1, Annealed;4.51;100;0.340;NonferrousMetal
+Titanium Grade 2, Annealed;4.51;102;0.340;NonferrousMetal
+Plansee INERMET IT170 Tungsten-Nickel-Copper Alloy;17.1;330;0.320;NonferrousMetal
+Phynox Cobalt-Chromium-Nickel Alloy;8.30;203;0.320;NonferrousMetal
+Erbslöh Aluminium DISPAL S542 Aluminum Alloy, AlMg6Mn4SiTiZrCo, Condition F;2.73;77.0;0.311;NonferrousMetal
+Erbslöh Aluminium DISPAL S541 Aluminum Alloy, AlMg6Mn4SiTiZr, Condition F;2.72;77.0;0.324;NonferrousMetal
+Erbslöh Aluminium DISPAL S250 Aluminum Alloy, AlSi20Fe5Ni2, Condition F;2.78;95.0;0.318;NonferrousMetal
+Erbslöh Aluminium DISPAL S232 Aluminum Alloy, AlSi17Fe4Cu3Mg, Condition T6x;2.79;88.0;0.332;NonferrousMetal
+Magnesium Elektron Elektron ZRE1 Magnesium Alloy, UNS M12330;1.80;44.0;0.330;NonferrousMetal
+Special Metals INCOLOY alloy 890 Ni-Cr-Fe Superalloy;7.94;195;0.322;NonferrousMetal
+Special Metals INCOLOY alloy 803 Fe-Ni-Cr Alloy;7.86;195;0.320;NonferrousMetal
+Special Metals INCONEL Alloy N06230 Ni-Cr-W-Mo Alloy;8.91;212;0.340;NonferrousMetal
+Special Metals INCONEL Alloy 686 Nickel Superalloy Plate (UNS N06686);8.73;207;0.340;NonferrousMetal
+Titanium Ti-15Mo-5Zr Solution Treated 730°C;5.06;78.0;0.330;NonferrousMetal
+Haynes 282 Nickel Alloy Sheet, Plate and Bar, Solution Annealed;8.27;217;0.319;NonferrousMetal
+Constellium Fortal Aluminum Alloy;2.81;72.5;0.330;NonferrousMetal
+Constellium Alumold 500 Rolled Aluminum;2.82;72.5;0.330;NonferrousMetal
+Carlson C 400 Nickel-Copper Alloy;8.83;179;0.320;NonferrousMetal
+ATI Wah Chang Zircadyne Alloy Zr 705;6.64;94.7;0.330;NonferrousMetal
+Ampco Metal AMPCO 674 Manganese Bronze;8.08;110;0.340;NonferrousMetal
+Ampco Metal AMPCO 673 Manganese Bronze;8.32;110;0.340;NonferrousMetal
+Ampco Metal AMPCO 483 Aluminum-Nickel Bronze, Extruded Rod, 12.7 - 25.4 mm.;7.64;117;0.33;NonferrousMetal
+Ampco Metal AMPCO 15 Aluminum Bronze, Extruded Rod, ≤ 12.7 mm.;7.64;117;0.33;NonferrousMetal
+Grade 705 Zirconium (Zr-2.5Nb);6.44;97.9;0.330;NonferrousMetal
+Titanium Grade 3, Annealed;4.50;104;0.340;NonferrousMetal
+Titanium Grade 3;4.50;107;0.330;NonferrousMetal
+Haynes 282 Nickel Alloy Sheet, Solution Annealed and Age-hardened;8.28;217;0.319;NonferrousMetal
+Aluminum 520.0-T4, Sand Cast;2.57;66.0;0.330;NonferrousMetal
+Aluminum 1100-H12;2.71;68.9;0.330;NonferrousMetal
+Titanium Beta C (Ti-3Al-8V-6Cr-4Mo-4Zr) Solution Treated 815°C;4.82;88.0;0.330;NonferrousMetal
+Nickel Aluminum Bronze, UNS C63000, Annealed Rod;7.58;125;0.328;NonferrousMetal
+Nickel Aluminum Bronze, UNS C63000, HR50 Temper;7.58;115;0.328;NonferrousMetal
+Copper, UNS C62500;7.21;110;0.312;NonferrousMetal
+Copper, UNS C62400 (Aluminum Bronze 11%);7.45;115;0.318;NonferrousMetal
+Copper, UNS C62300 (Aluminum Bronze 9%), Cold Finished Rod;7.65;113.0;0.328;NonferrousMetal
+Copper, UNS C62300 (Aluminum Bronze 9%), Annealed Rod;7.65;117.5;0.328;NonferrousMetal
+Copper, UNS C62300 (Aluminum Bronze 9%);7.65;115;0.328;NonferrousMetal
+Aluminum Bronze, UNS C61300, O60 Temper;7.89;115;0.312;NonferrousMetal
+Aluminum Bronze, UNS C61300, Cold Finished;7.89;120.5;0.312;NonferrousMetal
+Aluminum Bronze, UNS C61300, Annealed;7.89;126.0;0.312;NonferrousMetal
+8% Aluminum Bronze, UNS C61000;7.78;117;0.330;NonferrousMetal
+Aluminum Bronze, 5%, UNS C60600, O61 Temper;8.17;121;0.326;NonferrousMetal
+Free-cutting phosphor bronze, UNS C54400;8.89;103;0.32;NonferrousMetal
+Phosphor bronze 8% Sn, UNS C52100;8.80;110;0.34;NonferrousMetal
+Phosphor bronze 1.25% Sn, UNS C50500, OSO35 Temper, 0.035 mm Grain Size;8.89;117;0.330;NonferrousMetal
+Copper, UNS C40800;8.86;110;0.340;NonferrousMetal
+Extra-high-leaded brass, UNS C35600, H01 sheet/strip;8.50;97.0;0.311;NonferrousMetal
+High Strength Modified Copper, UNS C19400, O50 Temper flat products;8.78;121;0.330;NonferrousMetal
+Electrolytic Tough Pitch (ETP) Copper, UNS C11000, H00 Temper flat products;8.89;122.5;0.330;NonferrousMetal
+Electrolytic Tough Pitch (ETP) Copper, UNS C11000, OSO25 Temper flat products, tube;8.89;115;0.330;NonferrousMetal
+Aluminum 851.0-T5, Permanent Mold Cast;2.83;71.0;0.330;NonferrousMetal
+Aluminum 850.0-T5, Permanent Mold Cast;2.88;71.0;0.330;NonferrousMetal
+Aluminum 707.0-F Casting Alloy;2.77;71.0;0.330;NonferrousMetal
+Nickel Aluminum Bronze, UNS C63000, Cold Finished Rod;7.58;117;0.328;NonferrousMetal
+Nickel Aluminum Bronze, UNS C63200;7.64;115;0.320;NonferrousMetal
+Coronze Copper, UNS C63800, O61 Temper sheet/strip;8.28;117;0.312;NonferrousMetal
+Cupronickel 75-25, UNS C71300 Copper Coinage Alloy;8.94;152;0.325;NonferrousMetal
+Titanium Ti-5Al-2Zr-2Mo-0.25Si;4.51;114;0.326;NonferrousMetal
+Titanium Alloys, General;4.70;110;0.330;NonferrousMetal
+Magnesium K1A-F, Sand Cast;1.74;38.0;0.320;NonferrousMetal
+Magnesium EA65B-T6, Cast;1.92;45.0;0.320;NonferrousMetal
+Magnesium EA55B-T6, Cast;1.94;45.0;0.320;NonferrousMetal
+Beryllium Copper Nickel 72C Casting Alloy, As-cast and Aged;8.60;150;0.330;NonferrousMetal
+Beryllium Cupro-Nickel, UNS C96600, Copper Casting Alloy;8.80;150;0.330;NonferrousMetal
+Alpha Nickel-Aluminum Bronze, UNS C95800, Copper Casting Alloy;7.64;110;0.320;NonferrousMetal
+Manganese-Aluminum Bronze, UNS C95700, Copper Casting Alloy;7.53;125;0.326;NonferrousMetal
+Aluminum Bronze, UNS C95500 Casting Alloy, TQ50 Temper;7.53;115;0.320;NonferrousMetal
+Aluminum Bronze, UNS C95400, Copper Casting Alloy, As Cast;7.45;110;0.316;NonferrousMetal
+Titanium Beta C (Ti-3Al-8V-6Cr-4Mo-4Zr ST 815°C, Aged 565°C;4.82;104;0.330;NonferrousMetal
+Aluminum Bronze, UNS C95300, Casting Alloy, As Cast;7.53;110;0.314;NonferrousMetal
+Beryllium Copper Alloy 10C, UNS C82000 As-cast;8.62;115;0.330;NonferrousMetal
+Beryllium-Copper Alloy 50C, UNS C81800, As-cast;8.62;110;0.330;NonferrousMetal
+UNS C81500, Copper Casting Alloy;8.82;115;0.320;NonferrousMetal
+Leaded nickel silver 65-8-2, UNS C78200;8.69;117;0.330;NonferrousMetal
+Nickel silver 65-12, UNS C75700;8.69;125;0.330;NonferrousMetal
+Nickel silver 65-15, UNS C75400;8.70;125;0.330;NonferrousMetal
+Nickel silver 65-18, UNS C75200, OSO35 Temper flat products;8.73;122.5;0.330;NonferrousMetal
+Nickel silver 65-18, UNS C75200;8.73;125;0.330;NonferrousMetal
+Tin-Bearing Copper Nickel, UNS C72500;8.89;137;0.320;NonferrousMetal
+Copper Nickel, UNS C71640 Copper Alloy;8.86;152;0.325;NonferrousMetal
+Copper nickel 30%, UNS C71500;8.94;150;0.320;NonferrousMetal
+Beryllium-Copper Alloy 30C, UNS C82200, As-Cast;8.75;114;0.330;NonferrousMetal
+Aluminum 1100-H112;2.71;69.0;0.330;NonferrousMetal
+Erbslöh Aluminium DISPAL S270 Aluminum Alloy, AlSi25Fe4Ni3CuMgMnCrTi, Condition T6;2.79;99.5;0.284;NonferrousMetal
+Aluminum 1050-H14;2.70;69.0;0.330;NonferrousMetal
+Copper, UNS C41500;8.80;117.5;0.280;NonferrousMetal
+Alfa Chemistry Materials Bismuth single crystal disc, 10mm (0.39in) dia, 1-3mm (0.04-0.1in) thick, (100) orientation;9.75;32.0;0.330;NonferrousMetal
+Magnesium AM100A-T61, Sand Cast;1.83;45.0;0.350;NonferrousMetal
+Magnesium AM20-F, Die Cast;1.78;45.0;0.350;NonferrousMetal
+Magnesium AM50A-F, Die Cast;1.77;45.0;0.350;NonferrousMetal
+Tungsten, W;19.3;400;0.280;NonferrousMetal
+Parkway Products Thixomolded AM50A Magnesium;1.77;44.8;0.350;NonferrousMetal
+Parkway Products Thixomolded AM60A Magnesium;1.80;44.8;0.350;NonferrousMetal
+Magnesium AZ10A-F, Extruded;1.76;45.0;0.350;NonferrousMetal
+Magnesium AZ91C-T6, Cast;1.81;44.8;0.350;NonferrousMetal
+Magnesium AZ91C-F, Cast;1.81;45.0;0.350;NonferrousMetal
+Magnesium QE22A-T6, Cast;1.82;45.0;0.350;NonferrousMetal
+Magnesium ZE41A-T5, Cast;1.84;45.0;0.350;NonferrousMetal
+Titanium Ti-6Al-4V (Grade 5), Annealed;4.43;114;0.342;NonferrousMetal
+Grade 702 Zirconium, Commercially Pure;6.50;99.3;0.350;NonferrousMetal
+Alfa Chemistry Materials Chromium single crystal disc, (111) orientation;7.18;279;0.210;NonferrousMetal
+ATI Wah Chang Zircadyne Alloy Zr 702;6.50;99.2;0.350;NonferrousMetal
+Magnesium Elektron Elektron AZ91E Magnesium Casting Alloy;1.81;44.0;0.350;NonferrousMetal
+Magnesium Elektron Elektron RZ5 Magnesium Casting Alloy;1.84;44.1;0.350;NonferrousMetal
+Uninhibited Naval brass, UNS C46400, O61 Temper tubing;8.41;100;0.280;NonferrousMetal
+Magnesium Elektron Elektron RZ5 Magnesium Casting Alloy, UNS M16410;1.82;44.1;0.350;NonferrousMetal
+Medium leaded naval brass, UNS C48200;8.44;100;0.280;NonferrousMetal
+Magnesium WE54-T6, Cast;1.85;44.4;0.270;NonferrousMetal
+Special Metals INCONEL 690 Nickel Superalloy, Cold Drawn Tube, 0.50 inch (12.7 mm) o.d. and 0.050 inch (1.27 mm) Thickness;8.19;211;0.289;NonferrousMetal
+Mo-47.5 Re Molybdenum Rhenium Alloy, Deformed;13.5;350;0.285;NonferrousMetal
+Mo-44.5 Re Molybdenum Rhenium Alloy, Annealed;13.5;365;0.285;NonferrousMetal
+Aluminum 3004-H19;2.72;69.0;0.350;NonferrousMetal
+3013-O Aluminum;2.74;68.9;0.350;NonferrousMetal
+Aluminum 1060-H12;2.70;68.9;0.330;NonferrousMetal
+Magnesium Alloys, General;1.79;45.0;0.350;NonferrousMetal
+Magnesium AE42-F, Die Cast;1.80;45.0;0.350;NonferrousMetal
+Plansee DENSIMET D180 Tungsten-Nickel-Iron Alloy;18.1;380;0.270;NonferrousMetal
+Erbslöh Aluminium DISPAL S260 Aluminum Alloy, AlSi25Cu4Mg, Condition T7;2.66;92.0;0.277;NonferrousMetal
+Erbslöh Aluminium DISPAL S260 Aluminum Alloy, AlSi25Cu4Mg, Condition T6;2.66;95.0;0.277;NonferrousMetal
+Erbslöh Aluminium DISPAL S260 Aluminum Alloy, AlSi25Cu4Mg, Condition F;2.66;85.0;0.277;NonferrousMetal
+Erbslöh Aluminium DISPAL S225 Aluminum Alloy, AlSi35Fe2Ni, Condition F;2.58;86.0;0.264;NonferrousMetal
+Erbslöh Aluminium DISPAL S220 Aluminum Alloy, AlSi35, Condition F;2.54;85.0;0.275;NonferrousMetal
+Magnesium Elektron Elektron 43 Magnesium Wrought Alloy;1.84;44.0;0.270;NonferrousMetal
+Carlson C 601 Nickel-Chromium-Iron Alloy;8.11;206;0.267;NonferrousMetal
+Cadi C17500 Copper Alloy;8.75;131;0.267;NonferrousMetal
+Cadi 2 MOLD-MOR™;8.77;131;0.267;NonferrousMetal
+Magnesium ZC63-T6;1.87;45.0;0.270;NonferrousMetal
+Magnesium WE43-T6, Cast;1.84;44.2;0.270;NonferrousMetal
+Plansee DENSIMET D176 Tungsten-Nickel-Iron Alloy;17.7;360;0.240;NonferrousMetal
+Plansee DENSIMET D170 Tungsten-Nickel-Iron Alloy;17.1;340;0.210;NonferrousMetal
+Elgiloy Co-Cr-Ni Alloy, Wire, 65% Cold Reduction;8.30;152;0.226;NonferrousMetal
+Titanium Grade 7;4.50;105;0.370;NonferrousMetal
+Grade 704 Zirconium (Zr-1.5Sn);6.56;99.3;0.370;NonferrousMetal
+Carlson C 600 Nickel-Chromium-Iron Alloy;8.42;207;0.360;NonferrousMetal
+H.C. Starck Pure Niobium (Columbium);8.47;103;0.380;NonferrousMetal
+Plansee DENSIMET D185 Tungsten-Nickel-Iron Alloy;18.6;385;0.200;NonferrousMetal
+IBC Advanced Alloys Beralcast 191 Beryllium-Aluminum Alloy;2.16;202;0.200;NonferrousMetal
+Materion AlBeCast™ IC910 Aluminum Beryllium Composite;2.17;192.5;0.154;NonferrousMetal
+Materion AlBeMet AM 162 HIP'd Billet, Annealed;2.07;193;0.170;NonferrousMetal
+Gold, Au;19.3;77.2;0.420;NonferrousMetal
+Indium, In;7.30;12.7;0.450;NonferrousMetal
+Lead, Pb;11.4;14.0;0.420;NonferrousMetal
+Palladium, Pd;12.0;117;0.390;NonferrousMetal
+Platinum, Pt, CP Grade, Annealed;21.5;171;0.390;NonferrousMetal
+Platinum, Pt, CP Grade, Hard Drawn - 50% Cold Worked;21.5;156;0.390;NonferrousMetal
+60-40 Soft Solder (60 Sn-40Pb) Tin-Lead Soft Solder (UNS L13600);8.52;30.0;0.400;NonferrousMetal
+60-40 Soft Solder (60 Sn-40Pb) - ASTM B 32 Grade Sn60;8.60;30.0;0.400;NonferrousMetal
+Commercial Fine Gold, Cast;19.3;74.5;0.420;NonferrousMetal
+Commercial Fine Gold, Wrought then Annealed;19.3;79.9;0.420;NonferrousMetal
+Commercial Fine Gold, 60% Reduction;19.3;79.3;0.420;NonferrousMetal
+Titanium Grade 4;4.51;105;0.370;NonferrousMetal
+Titanium Grade 1;4.50;103;0.370;NonferrousMetal
+Eutectic Solder (63Sn-37Pb) - ASTM B 32 Grade Sn63;8.40;32.0;0.380;NonferrousMetal
+Arsenical Admiralty Copper, UNS C44300, OSO25 Temper tubing;8.53;110;0.380;NonferrousMetal
+Elgiloy Co-Cr-Ni Alloy, Wire, 47% Cold Reduction (Coil Spring Range);8.30;169;0.226;NonferrousMetal
+Elgiloy Co-Cr-Ni Alloy, Wire, 40% Cold Reduction;8.30;172;0.226;NonferrousMetal
+Elgiloy Co-Cr-Ni Alloy, Wire, 30% Cold Reduction, Heat Treated;8.30;194;0.226;NonferrousMetal
+Elgiloy Co-Cr-Ni Alloy, Wire, 30% Cold Reduction;8.30;177;0.226;NonferrousMetal
+Elgiloy Co-Cr-Ni Alloy, Wire, 20% Cold Reduction, Heat Treated;8.30;189;0.226;NonferrousMetal
+Elgiloy Co-Cr-Ni Alloy, Wire, 20% Cold Reduction;8.30;184;0.226;NonferrousMetal
+Elgiloy Co-Cr-Ni Alloy, Wire, 10% Cold Reduction;8.30;186;0.226;NonferrousMetal
+Elgiloy Co-Cr-Ni Alloy, Strip;8.30;190;0.226;NonferrousMetal
+Copper-Nickel, Chromium Bearing, UNS C72200;8.94;135;0.230;NonferrousMetal
+Special Metals INCONEL 718SPF™ Nickel Superalloy, Annealed;8.19;205;0.284;NonferrousMetal
+Magnesium Elektron Elektron AZ80A Magnesium Alloy, UNS M11800;1.81;45.0;0.350;NonferrousMetal
+Erbslöh Aluminium DISPAL S693 Aluminum Alloy, AlCu5Ti, Condition T4;2.82;72.0;0.341;NonferrousMetal
+Silver, Ag;10.5;76.0;0.38;NonferrousMetal
+Aluminum, Al;2.70;68.0;0.360;NonferrousMetal
+Molybdenum, Mo, Annealed;10.2;330;0.380;NonferrousMetal
+Morgan Advanced Ceramics Nioro™ ABA Mac-Nioro™ABA-WM Braze Alloy;15.8;112;0.380;NonferrousMetal
+Morgan Advanced Ceramics Incusil™ Mac-Incusil™ ABA-WM Braze Alloy;9.69;76.0;0.360;NonferrousMetal
+Morgan Advanced Ceramics Cusil™ Mac-Cusil™-WM Braze Alloy;9.99;83.0;0.360;NonferrousMetal
+Copper, UNS C43400;8.75;110;0.380;NonferrousMetal
+Copper, UNS C43500;8.66;110;0.380;NonferrousMetal
+Magnesium Elektron Elektron AZ31B Magnesium Extrusion Alloy, UNS M11311;1.77;45.0;0.350;NonferrousMetal
+Erbslöh Aluminium DISPAL S263 Aluminum Alloy, AlSi25Cu3Fe3Ni3MgCoTi, Condition F;2.76;92.0;0.286;NonferrousMetal
+Copper Nickel Tin, UNS C72800;8.97;128;0.350;NonferrousMetal
+Erbslöh Aluminium DISPAL S270 Aluminum Alloy, AlSi25Fe4Ni3CuMgMnCrTi, Condition F;2.79;90.0;0.284;NonferrousMetal
+Architectural Bronze, UNS C38000;8.40;97.0;0.310;NonferrousMetal
+Free-Cutting Brass, UNS C36000;8.49;97.0;0.310;NonferrousMetal
+Oxygen-free high conductivity Copper, Hard, UNS C10200;8.90;124.5;0.310;NonferrousMetal
+Oxygen-free high conductivity Copper, Soft, UNS C10200;8.90;117;0.310;NonferrousMetal
+Oxygen-free Electronic Copper (OFE), UNS C10100, H00 Temper, flat products;8.94;115;0.310;NonferrousMetal
+Oxygen-free electronic Copper, UNS C10100;8.91;115;0.310;NonferrousMetal
+Erbslöh Aluminium DISPAL S263 Aluminum Alloy, AlSi25Cu3Fe3Ni3MgCoTi, Condition T4;2.76;96.0;0.286;NonferrousMetal
+Nickel, Ni;8.88;207;0.310;NonferrousMetal
+Special Metals INCONEL alloy 783 Ni-Co-Fe Alloy;7.81;177;0.310;NonferrousMetal
+Special Metals INCOLOY Alloy 945 Nickel-Iron-Chromium Alloy, Annealed and Aged Rod (UNS N09945);8.20;195;0.310;NonferrousMetal
+Special Metals INCOLOY Alloy 945X Nickel-Iron-Chromium Alloy, Annealed and Aged Rod (UNS N09945);8.27;203;0.310;NonferrousMetal
+ATI Allegheny Ludlum AL 625HP™ Stainless Steel;8.44;205;0.306;NonferrousMetal
+ATI Allegheny Ludlum AL 200™ Nickel Alloy, UNS N02200;8.90;207;0.310;NonferrousMetal
+Alfa Chemistry Materials Cobalt Nanoparticle Dispersion;8.90;209;0.310;NonferrousMetal
+Bismuth, Bi;9.80;31.7;0.330;NonferrousMetal
+Architectural Bronze, UNS C38500;8.47;97.0;0.310;NonferrousMetal
+Low-silicon bronze B, UNS C65100, OSO35 Temper rod;8.75;115;0.310;NonferrousMetal
+Copper, UNS C65400, H01 Temper strip;8.55;117;0.310;NonferrousMetal
+Copper nickel 10%, UNS C70600;8.94;140;0.33;NonferrousMetal
+Haynes R-41 alloy, 1.27 mm thick sheet, solution heat treated at 1079°C, water quenched, 30 minutes at 1066°C, aged 16 hours at 760°C (1400°F), air cooled;8.25;222;0.310;NonferrousMetal
+Titanium 1100 Beta Quenched and annealed;4.50;112.0;0.310;NonferrousMetal
+Titanium IMI 834;4.55;120;0.310;NonferrousMetal
+Titanium IMI 679 (Ti-11Sn-5Zr-2.25Al-1Mo-0.25Si), Oil-Quenched and Aged;4.84;115;0.310;NonferrousMetal
+Titanium Ti-6Al-2Nb-1Ta-1Mo, Annealed;4.48;116;0.310;NonferrousMetal
+Titanium Ti-6Al-2Nb-1Ta-1Mo;4.48;114;0.310;NonferrousMetal
+Titanium Ti-5Al-2.5Sn, ELI, Annealed;4.48;110;0.310;NonferrousMetal
+Titanium Ti-11.5Mo-6Zr-4.5Sn, ST 720°C, Aged 495°C;5.06;108;0.310;NonferrousMetal
+Titanium Ti-5Al-2.5Sn (Grade 6);4.48;117.5;0.310;NonferrousMetal
+Titanium Ti-6Al-2Nb-1Ta-0.8Mo (Ti-621/0.8), Alpha-Annealed;4.48;115;0.310;NonferrousMetal
+Titanium Ti-6Al-2Nb-1Ta-0.8Mo (Ti-621/0.8), as-rolled;4.48;117;0.310;NonferrousMetal
+Titanium 11 (Ti-6Al-2Sn-1.5Zr-1Mo-0.35Bi-0.1Si);4.50;115;0.310;NonferrousMetal
+A13 Aluminum-28 v/o Thornel-50 Composite;2.40;145;0.306;NonferrousMetal
+Aluminum Bronze, UNS C95200, Copper Casting Alloy;7.64;105;0.310;NonferrousMetal
+Special Metals INCONEL 725 Nickel Superalloy (UNS N07725), Annealed Round;8.30;204;0.310;NonferrousMetal
+Special Metals DURANICKEL 301 (UNS N03301) Hot-Finished Rod and Bar;8.19;207;0.310;NonferrousMetal
+Titanium IMI 230 (Ti-2.5Cu);4.56;105;0.310;NonferrousMetal
+Cobalt, Co;8.80;211;0.320;NonferrousMetal
+Alfa Chemistry Materials Copper Nanotubes;8.96;119.0;0.340;NonferrousMetal
+ATI Wah Chang TI-3Al-2.5V;4.48;103;0.300;NonferrousMetal
+Titanium Ti-13V-11Cr-3Al (Ti-13-11-3) Aged 400°C;4.82;110;0.300;NonferrousMetal
+Titanium Ti-13V-11Cr-3Al (Ti-13-11-3) Solution Treated;4.82;99.0;0.300;NonferrousMetal
+Titanium Ti-3Al-2.5V (Grade 9), alpha annealed;4.48;100;0.300;NonferrousMetal
+Magnesium ZH62A-T5, Cast;1.86;45.0;0.300;NonferrousMetal
+Magnesium ZC71, As-Extruded;1.83;44.2;0.300;NonferrousMetal
+Beryllium-Copper Casting Alloy 275C, UNS C82800, As-Cast;8.09;133;0.300;NonferrousMetal
+Beryllium-Copper Casting Alloy 245C, UNS C82600, As-Cast;8.16;130;0.300;NonferrousMetal
+Beryllium-Copper Alloy 20C, UNS C82500, As Cast;8.26;128;0.300;NonferrousMetal
+Beryllium-Copper Alloy 165C, UNS C82400, As-Cast;8.31;128;0.300;NonferrousMetal
+Nickel silver 65-10, UNS C74500;8.69;120;0.300;NonferrousMetal
+Copper, UNS C41100;8.80;120.0;0.300;NonferrousMetal
+Beryllium Copper, UNS C17200, TD01 Temper Strip;8.25;127.5;0.300;NonferrousMetal
+Chromium Copper, UNS C18200, TB00 Temper flat products;8.89;130;0.300;NonferrousMetal
+Beryllium Copper, UNS C17000;8.26;115;0.300;NonferrousMetal
+Aluminum Alloys, General;2.70;70.0;0.330;NonferrousMetal
+Alclad Aluminum 3004-H112;2.72;70.0;0.350;NonferrousMetal
+Erbslöh Aluminium DISPAL S270 Aluminum Alloy, AlSi25Fe4Ni3CuMgMnCrTi, Condition T4;2.79;97.0;0.284;NonferrousMetal
+W-5 Re Tungsten Rhenium Alloy;19.6;405;0.300;NonferrousMetal
+Materion AMC225XE T4 Aluminum/Silicon Carbide MMC Forged Plate;2.88;115;0.300;NonferrousMetal
+Haynes R-41 alloy, 0.635 mm thick sheet, solution heat treated at 1079°C, water quenched, 30 minutes at 1066°C, aged 16 hours at 760°C (1400°F), air cooled;8.25;185;0.310;NonferrousMetal
+Materion BrushForm 96 Copper-Nickel-Tin Mill Hardened Strip (UNS C72700), TM00;8.91;124;0.300;NonferrousMetal
+Sandvik 75X1 Spring Wire;8.30;198.0;0.300;NonferrousMetal
+Magnesium Elektron Elektron 43 Magnesium Alloy;1.83;44.1;0.300;NonferrousMetal
+Magnesium Elektron Elektron WE54 Magnesium Casting Alloy;1.85;44.1;0.300;NonferrousMetal
+Magnesium Elektron Elektron QE22 Magnesium Casting Alloy;1.81;44.1;0.300;NonferrousMetal
+Magnesium Elektron Elektron MSR-B Magnesium Casting Alloy;1.82;44.1;0.300;NonferrousMetal
+Tin, Sn;6.53;42.95;0.330;NonferrousMetal
+Materion ToughMet T3 CX90;8.94;128;0.300;NonferrousMetal
+Materion ToughMet T2 CX 90;8.91;117;0.300;NonferrousMetal
+Zirconium, Zr;6.53;94.5;0.340;NonferrousMetal
+Materion SupremEX 640XA Aluminum - Silicon Carbide Metal Matrix Composite, T6 CWQ Billet;2.90;140;0.300;NonferrousMetal
+Morgan Advanced Ceramics Mac-Copper ABA™L-WM Braze Alloy;8.11;96.0;0.330;NonferrousMetal
+Materion SupremEX 217XG Aluminum - Silicon Carbide Metal Matrix Composite, T6 CWQ Billet;2.86;98.0;0.300;NonferrousMetal
+Materion BrushForm 158 Copper-Nickel-Tin Cold Rolled Strip (UNS C72900), EHT (TS08);9.00;128;0.300;NonferrousMetal
+Materion BrushForm 158 Copper-Nickel-Tin Mill Hardened Strip (UNS C72900), TM00;9.00;144;0.300;NonferrousMetal
+Titanium, Ti;4.50;116;0.340;NonferrousMetal
+Mateck Window Grade Zinc Selenide, ZnSe;5.26;77.6;0.311;OtherEngineeringMaterials
+Chromium Nitride (CrN) PVD Coating;5.90;200;0.200;OtherEngineeringMaterials
+Plaskolite Hygard EX250 Glaze;1.20;2.34;0.380;OtherEngineeringMaterials
+DuPont™ Kevlar 49 Aramid Fiber;1.44;112;0.360;OtherEngineeringMaterials
+Tellurium, Te;6.23;40.0;0.330;OtherEngineeringMaterials
+Mateck Gallium Arsenide (GaAs);5.32;85.0;0.310;OtherEngineeringMaterials
+Titanium Nitride (TiN) Coating;5.22;600;0.250;OtherEngineeringMaterials
+Germanium, Ge;5.32;130;0.300;OtherEngineeringMaterials
+Zinc Sulfide, ZnS, Wurtzite;4.10;75.0;0.270;OtherEngineeringMaterials
+Zinc Sulfide, ZnS, Sphalerite (Zincblende);4.08;75.0;0.270;OtherEngineeringMaterials
+Mateck Zinc Sulfide Cleartran (ZnS);4.09;74.5;0.280;OtherEngineeringMaterials
+Mateck Laser Grade Zinc Selenide, ZnSe CVD;5.27;70.3;0.280;OtherEngineeringMaterials
+Silicon, Si;2.33;112;0.280;OtherEngineeringMaterials
+General Plastics LAST-A-FOAM TR-15 Polyurethane Foam;0.240;0.19;0.300;OtherEngineeringMaterials
+General Plastics LAST-A-FOAM TR-20 Polyurethane Foam;0.320;0.47;0.300;OtherEngineeringMaterials
+General Plastics LAST-A-FOAM TR-24 Polyurethane Foam;0.384;0.84;0.300;OtherEngineeringMaterials
+Sawbones Solid Rigid Polyurethane Foam 5 pcf Density;0.0800;0.0320;0.300;OtherEngineeringMaterials
+Sawbones Solid Rigid Polyurethane Foam 15 pcf Density;0.240;0.173;0.300;OtherEngineeringMaterials
+Sawbones Solid Rigid Polyurethane Foam 20 pcf Density;0.320;0.284;0.300;OtherEngineeringMaterials
+Sawbones Solid Rigid Polyurethane Foam 30 pcf Density;0.480;0.592;0.300;OtherEngineeringMaterials
+Evonik Rohacell 71 WF High Heat Grade Polymethacrylimide (PMI) Foam;0.0750;0.105;0.250;OtherEngineeringMaterials
+Evonik Rohacell 51 S Self-Extinguishing Grade Polymethacrylimide (PMI) Foam;0.0521;0.0500;0.250;OtherEngineeringMaterials
+Sawbones Solid Rigid Polyurethane Foam 40 pcf Density;0.640;1.00;0.300;OtherEngineeringMaterials
+Sawbones Solid Rigid Polyurethane Foam 50 pcf Density;0.800;1.47;0.300;OtherEngineeringMaterials
+Microplasmic Anodizing [Ceramic Coating] for Aluminum, Magnesium, Titanium, Zirconium & Composites;3.80;277;0.210;OtherEngineeringMaterials
+Sawbones Solid Rigid Polyurethane Foam 10 pcf Density;0.160;0.0860;0.300;OtherEngineeringMaterials
+Evonik Rohacell 71 S Self-Extinguishing Grade Polymethacrylimide (PMI) Foam;0.0750;0.0900;0.320;OtherEngineeringMaterials
+Silver, CP Grade;10.5;71.0;0.370;PureElement
+Manganese, Mn;7.44;159;0.350;PureElement
+ATI Wah Chang Niobium;8.58;103;0.380;PureElement
+Beryllium, Be;1.84;303;0.12;PureElement
+Cerium, Ce;6.70;41.4;0.248;PureElement
+Mateck Germanium (Ge);5.33;129.5;0.278;PureElement
+Dysprosium, Dy;8.54;61.4;0.237;PureElement
+Thorium, Th;11.3;73.1;0.270;PureElement
+Terbium, Tb;8.27;55.7;0.260;PureElement
+Samarium, Sm;7.54;49.7;0.274;PureElement
+Scandium, Sc;3.00;74.4;0.279;PureElement
+Promethium, Pm;7.26;50.0;0.280;PureElement
+Lutetium, Lu;9.84;68.6;0.261;PureElement
+Lanthanum, La;6.17;36.6;0.280;PureElement
+Gadolinium, Gd;7.89;54.8;0.259;PureElement
+Barium, Ba;3.66;12.8;0.280;PureElement
+Alfa Chemistry Materials Chromium single crystal disc, (110) orientation;7.18;279;0.210;PureElement
+Erbium, Er;9.05;69.9;0.237;PureElement
+Holmium, Ho;8.80;64.8;0.231;PureElement
+Thulium, Tm;9.33;74.0;0.213;PureElement
+Mateck Silicon (Si);2.33;18.9;0.266;PureElement
+Ytterbium, Yb;6.98;23.7;0.207;PureElement
+Yttrium, Y;4.47;63.5;0.243;PureElement
+Beryllium SR-200;1.84;307;0.12;PureElement
+Neodymium, Nd;7.01;41.4;0.281;PureElement
+Praseodymium, Pr;6.77;37.3;0.281;PureElement
+Beryllium S-200F, Vacuum Hot Pressed;1.85;303;0.180;PureElement
+Cadmium, Cd;8.64;55.2;0.330;PureElement
+Plutonium, Pu;19.0;96.5;0.18;PureElement
+Europium, Eu;5.26;18.2;0.152;PureElement
+DSM Somos ProtoGen™ 18120 Epoxy Resin for Stereolithography, UV Postcure at HOC -2;1.16;2.68;0.44;RapidPrototypingPolymer
+DSM Somos ProtoGen™ 18120 Epoxy Resin for Stereolithography, UV & Thermal Postcure;1.16;2.95;0.430;RapidPrototypingPolymer
+DSM Somos ProtoGen™ 18420 Epoxy Resin for Stereolithography, UV Postcure at HOC -2;1.16;2.25;0.44;RapidPrototypingPolymer
+DSM Somos ProtoGen™ 18420 Epoxy Resin for Stereolithography, UV & Thermal Postcure;1.16;2.92;0.41;RapidPrototypingPolymer
+CRP Technology Windform RS Carbon Fiber Reinforced Composite for SLS/PBF;1.10;4.65;0.3;RapidPrototypingPolymer
+DSM Somos 9420 Epoxy Resin for Stereolithography;1.13;0.700;0.430;RapidPrototypingPolymer
+DSM Somos NeXT Stereolithography (SLA) Prototyping Polymer;1.17;2.43;0.43;RapidPrototypingPolymer
+DSM Somos DMX-SL™ 100 Extremely tough/durable SL resin for stereolithography;1.17;2.41;0.41;RapidPrototypingPolymer
+DSM Somos PerFORM Stereolithography Polymer, Thermal Postcure;1.61;9.80;0.330;RapidPrototypingPolymer
+DSM Somos WaterClear Ultra 10122 Optically Clear, Colorless, Rigid, Stereolithography Resin;1.13;2.88;0.410;RapidPrototypingPolymer
+DSM Somos PerFORM Reflect Stereolithography Polymer, UV Postcure;1.61;10.1;0.318;RapidPrototypingPolymer
+DSM Somos Momentum Stereolithography Polymer;1.16;2.51;0.410;RapidPrototypingPolymer
+CRP Technology Windform FR1 Carbon Filled Flame Retardant Composite Polyamide for Additive Manufacturing;1.21;5.1;0.3;RapidPrototypingPolymer
+DSM Somos PerFORM Reflect Stereolithography Polymer, Thermal Postcure;1.61;9.65;0.315;RapidPrototypingPolymer
+DSM Somos NanoTool™ Resin for Stereolithography, UV Postcure;1.65;11.2;0.36;RapidPrototypingPolymer
+DSM Somos NanoTool™ Resin for Stereolithography, UV & Thermal Postcure;1.65;10.8;0.32;RapidPrototypingPolymer
+DSM Somos PerFORM Stereolithography Polymer, UV Postcure;1.61;10.5;0.320;RapidPrototypingPolymer
+CRP Technology Windform FR2 Glass Filled Flame Retardant Composite Polyamide for Additive Manufacturing;1.35;4.02;0.34;RapidPrototypingPolymer
+DuPont Performance Polymers Zytel 151 NC010 PA612;1.06;2.05;0.4;Thermoplastic
+Covestro Makrolon Lumen XT sheet Polycarbonate;1.20;2.31;0.380;Thermoplastic
+Covestro Makrolon FI sheet Polycarbonate;1.25;2.34;0.380;Thermoplastic
+Covestro Makrolon AL sheet Polycarbonate;1.20;2.34;0.380;Thermoplastic
+Styrolution Luran S KR 2864 C Colored ASA+PC;1.15;2.60;0.330;Thermoplastic
+Styrolution Luran S KR 2863 C Colored ASA+PC;1.16;2.50;0.360;Thermoplastic
+Manifattura Cattaneo PE UMW Polyethylene;0.930;0.900;0.420;Thermoplastic
+DuPont Performance Polymers Hytrel 7246 TPC-ET;1.26;0.550;0.470;Thermoplastic
+DuPont Performance Polymers Hytrel 6359FG NC010 TPC-ET;1.22;0.260;0.480;Thermoplastic
+DuPont Performance Polymers Hytrel 5556 TPC-ET;1.19;0.180;0.480;Thermoplastic
+DuPont Performance Polymers Zytel 158 NC010 PA612;1.06;1.95;0.41;Thermoplastic
+DuPont Performance Polymers Zytel 153HSL NC010 PA612;1.06;2.0;0.4;Thermoplastic
+DuPont Performance Polymers Hytrel 4556 TPC-ET;1.14;0.0850;0.490;Thermoplastic
+DuPont Performance Polymers Hytrel 4053FGF NC010 TPC-ET;1.15;0.0550;0.500;Thermoplastic
+DuPont Performance Polymers Hytrel 4053FG NC010 TPC-ET;1.16;0.0560;0.500;Thermoplastic
+DuPont Performance Polymers Hytrel 3078 TPC-ET;1.07;0.0230;0.500;Thermoplastic
+DuPont Performance Polymers Hytrel 6356BKB High Performance Polyester Elastomer;1.22;0.280;0.480;Thermoplastic
+DuPont Performance Polymers Zytel FE5382 BK276 PA612-GF33;1.32;9.0;0.340;Thermoplastic
+DuPont Performance Polymers Zytel 77G43L NC010 PA612-GF43;1.42;12.0;0.330;Thermoplastic
+DuPont Performance Polymers Zytel 77G43L BK031 PA612-GF43;1.42;12.5;0.330;Thermoplastic
+DuPont Performance Polymers Zytel 77G33L BK031 PA612-GF33;1.32;8.7;0.340;Thermoplastic
+DuPont Performance Polymers Hytrel 5553FG NC010 TPC-ET;1.20;0.170;0.490;Thermoplastic
+DuPont Performance Polymers Hytrel 5526 TPC-ET;1.19;0.190;0.480;Thermoplastic
+DuPont Performance Polymers Zytel LC6200 BK385 PA612-HI;1.00;0.9;0.46;Thermoplastic
+DuPont Performance Polymers Zytel FE3734 NC010 PA612;1.07;2.0;0.4;Thermoplastic
+DuPont Performance Polymers Zytel (PA612) LC7601 BK010 PA-IP;1.03;0.500;0.470;Thermoplastic
+DuPont Performance Polymers Zytel LC6210 BK010 PA612-HI;1.01;0.93;0.46;Thermoplastic
+DuPont Performance Polymers Hytrel G4074 TPC-ET;1.18;0.0550;0.250;Thermoplastic
+BASF Elastollan 1185A Polyether Type Polyurethane Elastomer;1.12;0.0250;0.250;Thermoplastic
+DuPont Performance Polymers Hytrel HTR8813 BK320 Polyester Elastomer;1.23;0.450;0.470;Thermoplastic
+DuPont Performance Polymers Hytrel HTR8808 BK316 TPC-ET-I;1.07;0.270;0.480;Thermoplastic
+DuPont Performance Polymers Hytrel HTR8724 BK320 TPC-ET;1.16;0.110;0.490;Thermoplastic
+DuPont Performance Polymers Hytrel HTR8341C BK320 TPC-ET;1.14;0.0800;0.490;Thermoplastic
+DuPont Performance Polymers Zytel 157HSL BK010 PA612;1.07;2.0;0.41;Thermoplastic
+DuPont Performance Polymers Hytrel HTR8223 BK320 TPC-ET;1.13;0.07;0.490;Thermoplastic
+DuPont Performance Polymers Hytrel HTR8241 TPC-ET;1.24;0.360;0.480;Thermoplastic
+DuPont Performance Polymers Hytrel HTR8163HVBK TPC-ET;1.23;0.340;0.480;Thermoplastic
+DuPont Performance Polymers Hytrel HTR4275 BK316 TPC-ET;1.17;0.160;0.490;Thermoplastic
+DuPont Performance Polymers Hytrel G5544 TPC-ET;1.22;0.200;0.400;Thermoplastic
+DuPont Performance Polymers Hytrel G4774 TPC-ET;1.19;0.110;0.400;Thermoplastic
+DuPont Performance Polymers Hytrel 8238 TPC-ET;1.28;1.20;0.440;Thermoplastic
+DuPont Performance Polymers Hytrel 7246HS NC010 TPC-ET;1.25;0.480;0.470;Thermoplastic
+DuPont Performance Polymers Hytrel 7246HS BK320 TPC-ET;1.25;0.510;0.470;Thermoplastic
+Manifattura Cattaneo PE HD Polyethylene;0.950;1.30;0.420;Thermoplastic
+DuPont Performance Polymers Zytel LC6159 BK554 PA612;1.06;2.40;0.380;Thermoplastic
+DuPont Performance Polymers Hytrel HTR8206 TPC-ET;1.19;0.0800;0.490;Thermoplastic
+Hexcel HexPly M42 180°C (350°F) Curing Epoxy Matrix;1.26;4.00;0.400;Thermoset
+Hexcel HexPly M36 180°C (350°F) Curing Epoxy Matrix;1.17;3.50;0.420;Thermoset
+Hexcel HexPly M12 135°C Curing Epoxy Matrix;1.24;5.10;0.400;Thermoset
+Hexcel HexPly 914 175°C Curing Epoxy Matrix;1.29;3.90;0.410;Thermoset
+Hexcel HexPly 920 125°C Curing Epoxy Matrix;1.22;3.76;0.390;Thermoset
+Hexcel HexPly 924 180°C Curing Epoxy Matrix;1.30;3.80;0.410;Thermoset
+DuPont Performance Polymers BETAMATE™ 1060N US epoxy resin;1.30;2.90;0.370;Thermoset
+Rogers Arlon Thermabond 99950N008 Silicone Rubber/Fiberglass Laminate;3.70;0.0196;0.500;Thermoset
+Rogers Arlon R37806X030 Silicone Rubber/Fiberglass;2.80;0.0245;0.500;Thermoset
+Park Aerospace Nelco N8000Q Cyanate Ester Epoxy Laminate and Prepreg;1.73;16.9;0.160;Thermoset
+Park Aerospace Nelco N4000-12 High Speed/Low Loss, CAF Resistant Laminate and Prepreg;1.90;25.85;0.15;Thermoset
+Park Aerospace Nelco N4000-13 High-Speed Multifunctional Epoxy Laminate and Prepreg;1.91;25.9;0.12;Thermoset
+Park Aerospace Nelco N4000-13 SI High-Speed Multifunctional Epoxy Laminate and Prepreg;1.79;16.2;0.17;Thermoset
+Park Aerospace Nelco N4000-2 Multifunctional Epoxy Laminate and Prepreg;1.92;26.2;0.15;Thermoset
+Park Aerospace Nelco N4000-6 FC Multifunctional Epoxy Laminate and Prepreg;1.92;27.9;0.15;Thermoset
+Uniseal BETABRACE™ 85001 Epoxy;0.752;1.47;0.110;Thermoset
+Park Aerospace Nelco N4000-7 FR-4 Epoxy Laminate and Prepreg;1.97;21.7;0.12;Thermoset
+Park Aerospace Nelco N5000 BT Epoxy Laminate and Prepreg;1.77;30.35;0.15;Thermoset
+Hexcel HexPly F593 Epoxy Resin;1.22;2.96;0.350;Thermoset
+Hexcel HexPly ES70 120°C Curing Epoxy Matrix;1.27;2.90;0.350;Thermoset
+Solvay CYCOM 759F Epoxy - Unidirectional Carbon Tape Reinforced Prepreg;1.23;76.5;0.52;Thermoset
+Solvay CYCOM 5320-1 Epoxy with T40/800B Unidirectional Tape Composite;1.31;82.85;0.344;Thermoset
+Solvay CYCOM 934 Epoxy - S2-Glass Fiber Reinforced Unidirectional Tape and Roving Laminate;1.30;55.0;0.3;Thermoset
+Solvay CYCOM 2020 Epoxy + M46J 140 Unidirectional Tape Prepreg, without Post-Cure;1.25;255;0.850;Thermoset
+Park Aerospace Nelco N4000-29 Multifunctional Epoxy;1.99;22.4;0.17;Thermoset
+Solvay CYCOM 759F Epoxy - 2X2 Twill Fabric Reinforced Prepreg;1.23;59.5;0.52;Thermoset
+Park Aerospace Nelco N8000 Cyanate Ester Epoxy Laminate and Prepreg;1.73;20.7;0.140;Thermoset
+Arlon Electronic Materials 45N Multifunctional Epoxy Laminate and Prepreg;1.85;19.3;0.200;Thermoset
+Rogers Arlon Thermabond 99180T010 Silicone Rubber/Fiberglass Laminate;1.10;0.000517;0.500;Thermoset
+Rogers Arlon Thermabond 99000W008 Silicone Rubber/Fiberglass Laminate;1.70;0.0328;0.500;Thermoset
+Rogers Arlon 25188T010 Silicone Rubber/Laminated ETFE Film;1.4;0.000517;0.500;Thermoset
+Solvay CYCOM 2040 Epoxy Prepreg Unidirectional Tape with T800-140;1.21;89.75;0.43;Thermoset
+Solvay CYCOM 2040 Epoxy Prepreg Fabric with 6KT800-2X2T-200;1.21;75.75;0.45;Thermoset
+Solvay CYCOM 2040 Epoxy Prepreg Fabric with 6KM46J-2X2T-200;1.21;114.0;0.45;Thermoset
+Arlon Electronic Materials 45NK Woven Kevlar Reinforced Laminate and Prepreg;1.50;27.6;0.200;Thermoset
+Solvay CYCOM 759F Epoxy - Unidirectional Carbon Tape Reinforced Prepreg;1.23;206.6;0.52;Thermoset
+Solvay CYCOM 759F Epoxy - 6KM40B-5H-280 Fabric Reinforced Prepreg;1.23;101.0;0.5;Thermoset
+Solvay CYCOM 2040 Epoxy Prepreg Unidirectional Tape with M55J-140;1.21;172.31;0.900;Thermoset
+Solvay HTM 60 Epoxy;1.29;83.9;0.21;Thermoset
+Solvay MTM 79 Epoxy Matrix with 50% CF1420 Carbon Fiber Composite;1.26;51.15;0.05;Thermoset
+Solvay MTM 79 Epoxy Matrix with 42% CF2115 Carbon Fiber Composite;1.26;125.5;0.04;Thermoset
+Solvay MTM 79 Epoxy Matrix with 42% CF1218 Carbon Fiber Composite;1.26;72.75;0.04;Thermoset
+Solvay MTM 348FR Epoxy Resin;1.48;43.05;0.35;Thermoset
+Hexcel HexPly M18 356°F (180°C) Curing Epoxy Matrix;1.16;3.50;0.380;Thermoset
+Hexcel HexPly 954-2A Curing Cyanate Resin;1.24;3.00;0.380;Thermoset
+Arlon Electronic Materials 47N Quick Cure Epoxy Low-Flow Prepreg;1.75;17.9;0.170;Thermoset
+Solvay MTM 228 Epoxy Prepreg;1.19;63.0;0.07;Thermoset
+Calcium Hydroxyapatite, Ca10(PO4)6(OH)2;3.13;10.0;0.270;Wood
+Pond Pine;0.560;12.1;0.33;Wood
+Western White Pine;0.380;10.1;0.37;Wood
+Fir, Subalpine;0.320;8.89;0.38;Wood
+Sugar Pine;0.360;8.20;0.39;Wood
